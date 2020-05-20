@@ -1,0 +1,1300 @@
+2020-05-07T18:47:23.134 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:47:23.0956383Z', Id=3fa17de4-5879-43fd-bcec-c658ffeabc59)
+2020-05-07T18:47:23.134 [Information] Documents modified 2
+2020-05-07T18:47:23.134 [Information] First document Id s269-t1-badf92d4257a-hub-1588877218764
+2020-05-07T18:47:23.152 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3fa17de4-5879-43fd-bcec-c658ffeabc59)
+2020-05-07T18:47:23.295 [Information] {"processtime": 161}
+2020-05-07T18:47:28.262 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:47:28.2540536Z', Id=d060dbf7-d164-4d01-8908-29e1351b038b)
+2020-05-07T18:47:28.262 [Information] Documents modified 1
+2020-05-07T18:47:28.262 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877222598
+2020-05-07T18:47:28.273 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d060dbf7-d164-4d01-8908-29e1351b038b)
+2020-05-07T18:47:28.293 [Information] {"processtime": 31}
+2020-05-07T18:47:33.398 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:47:33.3813951Z', Id=54f0be11-77b0-42ee-b6ce-dbe8abd010ce)
+2020-05-07T18:47:33.401 [Information] Documents modified 2
+2020-05-07T18:47:33.401 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877223761
+2020-05-07T18:47:33.421 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=54f0be11-77b0-42ee-b6ce-dbe8abd010ce)
+2020-05-07T18:47:33.476 [Information] {"processtime": 75}
+2020-05-07T18:47:38.551 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:47:38.5365323Z', Id=bef801fa-da80-4a33-a6dd-7a21ced9c04b)
+2020-05-07T18:47:38.551 [Information] Documents modified 1
+2020-05-07T18:47:38.551 [Information] First document Id s263-t1-50fe05052f11-hub-1588877223792
+2020-05-07T18:47:38.562 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=bef801fa-da80-4a33-a6dd-7a21ced9c04b)
+2020-05-07T18:47:38.638 [Information] {"processtime": 87}
+2020-05-07T18:47:48.653 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:47:48.6453754Z', Id=999b4192-08eb-414a-a807-f4ad3322e172)
+2020-05-07T18:47:48.653 [Information] Documents modified 1
+2020-05-07T18:47:48.654 [Information] First document Id s266-t1-254c556dc390-hub-1588877225796
+2020-05-07T18:47:48.665 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=999b4192-08eb-414a-a807-f4ad3322e172)
+2020-05-07T18:47:48.752 [Information] {"processtime": 98}
+2020-05-07T18:47:53.744 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:47:53.7409915Z', Id=f9e0b0b2-2eb0-49df-b9bd-c7e0173c918e)
+2020-05-07T18:47:53.744 [Information] Documents modified 1
+2020-05-07T18:47:53.744 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877227961
+2020-05-07T18:47:53.771 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f9e0b0b2-2eb0-49df-b9bd-c7e0173c918e)
+2020-05-07T18:47:53.837 [Information] {"processtime": 93}
+2020-05-07T18:48:03.903 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:03.8869605Z', Id=42b3b495-7e0c-4eb1-84bd-970240ee4f07)
+2020-05-07T18:48:03.904 [Information] Documents modified 2
+2020-05-07T18:48:03.904 [Information] First document Id s269-t1-badf92d4257a-hub-1588877228799
+2020-05-07T18:48:03.916 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=42b3b495-7e0c-4eb1-84bd-970240ee4f07)
+2020-05-07T18:48:03.974 [Information] {"processtime": 70}
+2020-05-07T18:48:09.041 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:09.0326941Z', Id=43bff564-6e32-4f41-9b41-82a7d8ca73b2)
+2020-05-07T18:48:09.041 [Information] Documents modified 1
+2020-05-07T18:48:09.041 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877230733
+2020-05-07T18:48:09.059 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=43bff564-6e32-4f41-9b41-82a7d8ca73b2)
+2020-05-07T18:48:09.138 [Information] {"processtime": 97}
+2020-05-07T18:48:14.204 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:14.1871841Z', Id=4e927750-0982-4f83-9621-6a5f30eace1a)
+2020-05-07T18:48:14.204 [Information] Documents modified 2
+2020-05-07T18:48:14.204 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877233634
+2020-05-07T18:48:14.227 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4e927750-0982-4f83-9621-6a5f30eace1a)
+2020-05-07T18:48:14.273 [Information] {"processtime": 69}
+2020-05-07T18:48:19.314 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:19.3055176Z', Id=88a498b4-4f48-496e-821d-a8b1835c0001)
+2020-05-07T18:48:19.315 [Information] Documents modified 1
+2020-05-07T18:48:19.315 [Information] First document Id s262-t1-85c1058358b3-hub-1588877233884
+2020-05-07T18:48:19.333 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=88a498b4-4f48-496e-821d-a8b1835c0001)
+2020-05-07T18:48:19.355 [Information] {"processtime": 40}
+2020-05-07T18:48:24.489 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:24.4132164Z', Id=733fb213-904c-4c9f-920c-ac5cbc6ead43)
+2020-05-07T18:48:24.489 [Information] Documents modified 2
+2020-05-07T18:48:24.489 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877236939
+2020-05-07T18:48:24.505 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=733fb213-904c-4c9f-920c-ac5cbc6ead43)
+2020-05-07T18:48:24.566 [Information] {"processtime": 77}
+2020-05-07T18:48:29.807 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:29.7904318Z', Id=6f59070d-31d5-454e-8078-ede05c5ffdf5)
+2020-05-07T18:48:29.807 [Information] Documents modified 2
+2020-05-07T18:48:29.807 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877243810
+2020-05-07T18:48:29.831 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6f59070d-31d5-454e-8078-ede05c5ffdf5)
+2020-05-07T18:48:29.880 [Information] {"processtime": 73}
+2020-05-07T18:48:35.069 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:35.0655492Z', Id=3cc12a09-ab3d-4907-8e94-e3fb5bf65934)
+2020-05-07T18:48:35.069 [Information] Documents modified 1
+2020-05-07T18:48:35.069 [Information] First document Id s266-t1-254c556dc390-hub-1588877243833
+2020-05-07T18:48:35.087 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3cc12a09-ab3d-4907-8e94-e3fb5bf65934)
+2020-05-07T18:48:35.159 [Information] {"processtime": 90}
+2020-05-07T18:48:40.325 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:40.2988707Z', Id=e132a470-b943-4198-9973-355e45ac805b)
+2020-05-07T18:48:40.325 [Information] Documents modified 2
+2020-05-07T18:48:40.325 [Information] First document Id s263-t1-50fe05052f11-hub-1588877243877
+2020-05-07T18:48:40.337 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e132a470-b943-4198-9973-355e45ac805b)
+2020-05-07T18:48:40.465 [Information] {"processtime": 140}
+2020-05-07T18:48:45.517 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:45.5092639Z', Id=7f8e40c8-186d-4b3c-9d6d-8386448ab71a)
+2020-05-07T18:48:45.518 [Information] Documents modified 1
+2020-05-07T18:48:45.518 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877247770
+2020-05-07T18:48:45.530 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7f8e40c8-186d-4b3c-9d6d-8386448ab71a)
+2020-05-07T18:48:45.646 [Information] {"processtime": 128}
+2020-05-07T18:48:50.835 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:50.8170080Z', Id=e302ea4e-88b5-47c0-93cc-46763b23a0ec)
+2020-05-07T18:48:50.835 [Information] Documents modified 2
+2020-05-07T18:48:50.835 [Information] First document Id s262-t1-85c1058358b3-hub-1588877247918
+2020-05-07T18:48:50.854 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e302ea4e-88b5-47c0-93cc-46763b23a0ec)
+2020-05-07T18:48:50.962 [Information] {"processtime": 127}
+2020-05-07T18:48:56.056 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:48:56.0485190Z', Id=13c04e4f-63ec-4f54-ba4c-7ddcbb823cec)
+2020-05-07T18:48:56.056 [Information] Documents modified 1
+2020-05-07T18:48:56.057 [Information] First document Id s269-t1-badf92d4257a-hub-1588877248869
+2020-05-07T18:48:56.086 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=13c04e4f-63ec-4f54-ba4c-7ddcbb823cec)
+2020-05-07T18:48:56.146 [Information] {"processtime": 89}
+2020-05-07T18:49:01.328 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:01.3112595Z', Id=1ae04841-d378-42af-84bc-3dd3cd4005c9)
+2020-05-07T18:49:01.328 [Information] Documents modified 2
+2020-05-07T18:49:01.328 [Information] First document Id s263-t1-50fe05052f11-hub-1588877253911
+2020-05-07T18:49:01.339 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1ae04841-d378-42af-84bc-3dd3cd4005c9)
+2020-05-07T18:49:01.382 [Information] {"processtime": 54}
+2020-05-07T18:49:06.798 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:06.7811908Z', Id=586427d6-4f75-4b68-bcd2-e1464b46b306)
+2020-05-07T18:49:06.798 [Information] Documents modified 2
+2020-05-07T18:49:06.798 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877255978
+2020-05-07T18:49:06.810 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=586427d6-4f75-4b68-bcd2-e1464b46b306)
+2020-05-07T18:49:06.866 [Information] {"processtime": 68}
+2020-05-07T18:49:11.965 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:11.9624717Z', Id=4c852d31-9d55-46f8-9ba2-67255b1e4dbe)
+2020-05-07T18:49:11.965 [Information] Documents modified 1
+2020-05-07T18:49:11.965 [Information] First document Id s266-t1-254c556dc390-hub-1588877261886
+2020-05-07T18:49:11.994 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4c852d31-9d55-46f8-9ba2-67255b1e4dbe)
+2020-05-07T18:49:12.015 [Information] {"processtime": 50}
+2020-05-07T18:49:17.177 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:17.1610805Z', Id=f1394ba3-da7f-49ff-bd81-8ad5427dd9fc)
+2020-05-07T18:49:17.178 [Information] Documents modified 2
+2020-05-07T18:49:17.178 [Information] First document Id s262-t1-85c1058358b3-hub-1588877261956
+2020-05-07T18:49:17.189 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f1394ba3-da7f-49ff-bd81-8ad5427dd9fc)
+2020-05-07T18:49:17.236 [Information] {"processtime": 58}
+2020-05-07T18:49:22.458 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:22.4553478Z', Id=26e6add5-17d1-412a-bdb4-54bd660758f4)
+2020-05-07T18:49:22.466 [Information] Documents modified 1
+2020-05-07T18:49:22.466 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877263877
+2020-05-07T18:49:22.477 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=26e6add5-17d1-412a-bdb4-54bd660758f4)
+2020-05-07T18:49:22.545 [Information] {"processtime": 79}
+2020-05-07T18:49:27.697 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:27.6798561Z', Id=ce29bcec-223e-4b89-a063-eea767a6e18f)
+2020-05-07T18:49:27.697 [Information] Documents modified 2
+2020-05-07T18:49:27.697 [Information] First document Id s263-t1-50fe05052f11-hub-1588877263948
+2020-05-07T18:49:27.709 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ce29bcec-223e-4b89-a063-eea767a6e18f)
+2020-05-07T18:49:27.766 [Information] {"processtime": 69}
+2020-05-07T18:49:32.905 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:32.9025778Z', Id=31685a7b-1eff-4914-8fe7-f263395aea62)
+2020-05-07T18:49:32.911 [Information] Documents modified 1
+2020-05-07T18:49:32.911 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877266746
+2020-05-07T18:49:32.924 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=31685a7b-1eff-4914-8fe7-f263395aea62)
+2020-05-07T18:49:32.942 [Information] {"processtime": 31}
+2020-05-07T18:49:33.488 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:33.4858287Z', Id=4be6f7a9-495f-4b5d-8a6a-c49588b85623)
+2020-05-07T18:49:33.488 [Information] Documents modified 1
+2020-05-07T18:49:33.488 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877268040
+2020-05-07T18:49:33.557 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4be6f7a9-495f-4b5d-8a6a-c49588b85623)
+2020-05-07T18:49:33.638 [Information] {"processtime": 150}
+2020-05-07T18:49:38.719 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:38.7103313Z', Id=3a5466e8-ef08-42a8-951b-cb14b43e4a5d)
+2020-05-07T18:49:38.719 [Information] Documents modified 1
+2020-05-07T18:49:38.719 [Information] First document Id s269-t1-badf92d4257a-hub-1588877268942
+2020-05-07T18:49:38.731 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3a5466e8-ef08-42a8-951b-cb14b43e4a5d)
+2020-05-07T18:49:38.847 [Information] {"processtime": 128}
+2020-05-07T18:49:43.933 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:43.9205773Z', Id=586d4ce8-e0b0-408e-9362-3aff12b2e9b3)
+2020-05-07T18:49:43.933 [Information] Documents modified 2
+2020-05-07T18:49:43.933 [Information] First document Id s263-t1-50fe05052f11-hub-1588877273989
+2020-05-07T18:49:43.962 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=586d4ce8-e0b0-408e-9362-3aff12b2e9b3)
+2020-05-07T18:49:44.077 [Information] {"processtime": 144}
+2020-05-07T18:49:49.118 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:49.1110646Z', Id=a264d6e5-e924-4df9-bc8d-16abb638695e)
+2020-05-07T18:49:49.118 [Information] Documents modified 1
+2020-05-07T18:49:49.118 [Information] First document Id s262-t1-85c1058358b3-hub-1588877275990
+2020-05-07T18:49:49.130 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a264d6e5-e924-4df9-bc8d-16abb638695e)
+2020-05-07T18:49:49.149 [Information] {"processtime": 31}
+2020-05-07T18:49:54.381 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:49:54.3018990Z', Id=f7163968-6bb6-4dc0-a9bc-b1e80d1dfdf0)
+2020-05-07T18:49:54.387 [Information] Documents modified 2
+2020-05-07T18:49:54.387 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877277781
+2020-05-07T18:49:54.399 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f7163968-6bb6-4dc0-a9bc-b1e80d1dfdf0)
+2020-05-07T18:49:54.464 [Information] {"processtime": 77}
+2020-05-07T18:50:00.183 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:00.1716719Z', Id=625e22b9-87e6-4a76-b998-4e52d494d40b)
+2020-05-07T18:50:00.183 [Information] Documents modified 2
+2020-05-07T18:50:00.183 [Information] First document Id s266-t1-254c556dc390-hub-1588877279924
+2020-05-07T18:50:00.214 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=625e22b9-87e6-4a76-b998-4e52d494d40b)
+2020-05-07T18:50:00.278 [Information] {"processtime": 95}
+2020-05-07T18:50:05.411 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:05.4028879Z', Id=31924a2f-8fb6-4069-80fb-b593bdf755c5)
+2020-05-07T18:50:05.412 [Information] Documents modified 1
+2020-05-07T18:50:05.412 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877283885
+2020-05-07T18:50:05.424 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=31924a2f-8fb6-4069-80fb-b593bdf755c5)
+2020-05-07T18:50:05.443 [Information] {"processtime": 31}
+2020-05-07T18:50:10.615 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:10.5436840Z', Id=2590b216-4c69-4426-9df4-7728bda98eef)
+2020-05-07T18:50:10.615 [Information] Documents modified 2
+2020-05-07T18:50:10.615 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877283939
+2020-05-07T18:50:10.633 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2590b216-4c69-4426-9df4-7728bda98eef)
+2020-05-07T18:50:10.676 [Information] {"processtime": 61}
+2020-05-07T18:50:15.832 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:15.8226808Z', Id=a88216fd-128e-4537-84a7-1ad2b5406f64)
+2020-05-07T18:50:15.832 [Information] Documents modified 1
+2020-05-07T18:50:15.832 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877288073
+2020-05-07T18:50:15.844 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a88216fd-128e-4537-84a7-1ad2b5406f64)
+2020-05-07T18:50:15.954 [Information] {"processtime": 122}
+2020-05-07T18:50:21.050 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:21.0388409Z', Id=23122a64-789a-45ab-9e71-879a830399e0)
+2020-05-07T18:50:21.050 [Information] Documents modified 2
+2020-05-07T18:50:21.050 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877288813
+2020-05-07T18:50:21.070 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=23122a64-789a-45ab-9e71-879a830399e0)
+2020-05-07T18:50:21.173 [Information] {"processtime": 123}
+2020-05-07T18:50:26.224 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:26.2219624Z', Id=6eda98e6-5f5c-4c39-9609-f07a9161de61)
+2020-05-07T18:50:26.225 [Information] Documents modified 1
+2020-05-07T18:50:26.225 [Information] First document Id s262-t1-85c1058358b3-hub-1588877290024
+2020-05-07T18:50:26.294 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6eda98e6-5f5c-4c39-9609-f07a9161de61)
+2020-05-07T18:50:26.314 [Information] {"processtime": 89}
+2020-05-07T18:50:31.566 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:31.5494227Z', Id=56c807e2-2d73-47d7-a533-5d05193ca4a8)
+2020-05-07T18:50:31.566 [Information] Documents modified 2
+2020-05-07T18:50:31.566 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877294050
+2020-05-07T18:50:31.578 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=56c807e2-2d73-47d7-a533-5d05193ca4a8)
+2020-05-07T18:50:31.674 [Information] {"processtime": 108}
+2020-05-07T18:50:36.740 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:36.7316750Z', Id=0b17ce3a-96f2-42ec-bc63-0748e7b869f5)
+2020-05-07T18:50:36.740 [Information] Documents modified 1
+2020-05-07T18:50:36.741 [Information] First document Id s266-t1-254c556dc390-hub-1588877297957
+2020-05-07T18:50:36.759 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=0b17ce3a-96f2-42ec-bc63-0748e7b869f5)
+2020-05-07T18:50:36.838 [Information] {"processtime": 96}
+2020-05-07T18:50:42.002 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:41.9850488Z', Id=fa40049e-c88c-4aa8-a19a-f9d9648cc582)
+2020-05-07T18:50:42.003 [Information] Documents modified 2
+2020-05-07T18:50:42.003 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877298874
+2020-05-07T18:50:42.014 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=fa40049e-c88c-4aa8-a19a-f9d9648cc582)
+2020-05-07T18:50:42.074 [Information] {"processtime": 71}
+2020-05-07T18:50:47.206 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:47.2040507Z', Id=41adbedd-c03d-4d33-9970-3d8a82229831)
+2020-05-07T18:50:47.207 [Information] Documents modified 1
+2020-05-07T18:50:47.207 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877299847
+2020-05-07T18:50:47.218 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=41adbedd-c03d-4d33-9970-3d8a82229831)
+2020-05-07T18:50:47.246 [Information] {"processtime": 39}
+2020-05-07T18:50:47.814 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:47.8120354Z', Id=5d71d650-55f3-4b97-9461-19446966f9e6)
+2020-05-07T18:50:47.815 [Information] Documents modified 1
+2020-05-07T18:50:47.815 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877303918
+2020-05-07T18:50:47.827 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=5d71d650-55f3-4b97-9461-19446966f9e6)
+2020-05-07T18:50:47.845 [Information] {"processtime": 30}
+2020-05-07T18:50:53.069 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:53.0608787Z', Id=8dd2272a-c9d9-43ca-b361-c52990539d37)
+2020-05-07T18:50:53.069 [Information] Documents modified 1
+2020-05-07T18:50:53.069 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877303989
+2020-05-07T18:50:53.087 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=8dd2272a-c9d9-43ca-b361-c52990539d37)
+2020-05-07T18:50:53.106 [Information] {"processtime": 37}
+2020-05-07T18:50:58.328 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:50:58.3167513Z', Id=edc49235-ebd5-4982-970e-bffcadfd236e)
+2020-05-07T18:50:58.334 [Information] Documents modified 2
+2020-05-07T18:50:58.334 [Information] First document Id s262-t1-85c1058358b3-hub-1588877304059
+2020-05-07T18:50:58.358 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=edc49235-ebd5-4982-970e-bffcadfd236e)
+2020-05-07T18:50:58.405 [Information] {"processtime": 71}
+2020-05-07T18:51:03.565 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:03.5633083Z', Id=937031f1-396f-4961-90e6-c2e0fd56ff3a)
+2020-05-07T18:51:03.566 [Information] Documents modified 1
+2020-05-07T18:51:03.566 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877308109
+2020-05-07T18:51:03.584 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=937031f1-396f-4961-90e6-c2e0fd56ff3a)
+2020-05-07T18:51:03.661 [Information] {"processtime": 95}
+2020-05-07T18:51:13.826 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:13.7557959Z', Id=7e299162-4e34-41e9-86e8-8b4dc69abc99)
+2020-05-07T18:51:13.827 [Information] Documents modified 2
+2020-05-07T18:51:13.827 [Information] First document Id s269-t1-badf92d4257a-hub-1588877309075
+2020-05-07T18:51:13.844 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7e299162-4e34-41e9-86e8-8b4dc69abc99)
+2020-05-07T18:51:13.978 [Information] {"processtime": 151}
+2020-05-07T18:51:18.985 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:18.9761053Z', Id=cc3dce72-3670-4264-ad8b-493e218c0b70)
+2020-05-07T18:51:18.985 [Information] Documents modified 1
+2020-05-07T18:51:18.985 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877313092
+2020-05-07T18:51:18.998 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=cc3dce72-3670-4264-ad8b-493e218c0b70)
+2020-05-07T18:51:19.023 [Information] {"processtime": 38}
+2020-05-07T18:51:24.487 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:24.4706648Z', Id=d5bfa8ee-c75a-4edd-8f76-d15d3080208c)
+2020-05-07T18:51:24.487 [Information] Documents modified 2
+2020-05-07T18:51:24.487 [Information] First document Id s263-t1-50fe05052f11-hub-1588877314130
+2020-05-07T18:51:24.499 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d5bfa8ee-c75a-4edd-8f76-d15d3080208c)
+2020-05-07T18:51:24.584 [Information] {"processtime": 97}
+2020-05-07T18:51:29.704 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:29.6957783Z', Id=231a0193-5a6e-44bf-8bf6-1cfafb14375e)
+2020-05-07T18:51:29.706 [Information] Documents modified 1
+2020-05-07T18:51:29.706 [Information] First document Id s266-t1-254c556dc390-hub-1588877315990
+2020-05-07T18:51:29.774 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=231a0193-5a6e-44bf-8bf6-1cfafb14375e)
+2020-05-07T18:51:29.793 [Information] {"processtime": 87}
+2020-05-07T18:51:35.021 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:35.0047474Z', Id=dcb9141a-adaf-4732-812d-29c369f6c9d9)
+2020-05-07T18:51:35.021 [Information] Documents modified 2
+2020-05-07T18:51:35.021 [Information] First document Id s262-t1-85c1058358b3-hub-1588877318093
+2020-05-07T18:51:35.033 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=dcb9141a-adaf-4732-812d-29c369f6c9d9)
+2020-05-07T18:51:35.167 [Information] {"processtime": 146}
+2020-05-07T18:51:40.242 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:40.2335098Z', Id=ef251d7a-d58c-4b26-8440-c0e74099a4bb)
+2020-05-07T18:51:40.242 [Information] Documents modified 1
+2020-05-07T18:51:40.242 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877321914
+2020-05-07T18:51:40.254 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ef251d7a-d58c-4b26-8440-c0e74099a4bb)
+2020-05-07T18:51:40.274 [Information] {"processtime": 32}
+2020-05-07T18:51:45.446 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:45.4352464Z', Id=829a84c1-f8e9-48b5-a780-fd1a9c5f4187)
+2020-05-07T18:51:45.446 [Information] Documents modified 2
+2020-05-07T18:51:45.446 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877323952
+2020-05-07T18:51:45.463 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=829a84c1-f8e9-48b5-a780-fd1a9c5f4187)
+2020-05-07T18:51:45.574 [Information] {"processtime": 128}
+2020-05-07T18:51:50.669 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:50.6663828Z', Id=0f98e8bc-5eb5-436e-b12a-502eb1740563)
+2020-05-07T18:51:50.669 [Information] Documents modified 1
+2020-05-07T18:51:50.669 [Information] First document Id s263-t1-50fe05052f11-hub-1588877324162
+2020-05-07T18:51:50.681 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=0f98e8bc-5eb5-436e-b12a-502eb1740563)
+2020-05-07T18:51:50.757 [Information] {"processtime": 88}
+2020-05-07T18:51:55.948 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:51:55.8791136Z', Id=7b556d24-afc7-457f-bf34-30cc2991e302)
+2020-05-07T18:51:55.948 [Information] Documents modified 2
+2020-05-07T18:51:55.948 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877328148
+2020-05-07T18:51:55.967 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7b556d24-afc7-457f-bf34-30cc2991e302)
+2020-05-07T18:51:56.065 [Information] {"processtime": 117}
+2020-05-07T18:52:01.125 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:01.1171962Z', Id=10b68065-8dd6-4882-a6e1-384db5dd274c)
+2020-05-07T18:52:01.126 [Information] Documents modified 1
+2020-05-07T18:52:01.126 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877332126
+2020-05-07T18:52:01.137 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=10b68065-8dd6-4882-a6e1-384db5dd274c)
+2020-05-07T18:52:01.156 [Information] {"processtime": 30}
+2020-05-07T18:52:06.337 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:06.3264389Z', Id=7b797d86-00df-4ee5-b6b5-6a952c4defc0)
+2020-05-07T18:52:06.337 [Information] Documents modified 2
+2020-05-07T18:52:06.337 [Information] First document Id s262-t1-85c1058358b3-hub-1588877332126
+2020-05-07T18:52:06.355 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7b797d86-00df-4ee5-b6b5-6a952c4defc0)
+2020-05-07T18:52:06.468 [Information] {"processtime": 130}
+2020-05-07T18:52:11.587 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:11.5787919Z', Id=dc7cce8a-acc0-4e1a-9f37-20933e10ef04)
+2020-05-07T18:52:11.587 [Information] Documents modified 1
+2020-05-07T18:52:11.587 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877332946
+2020-05-07T18:52:11.657 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=dc7cce8a-acc0-4e1a-9f37-20933e10ef04)
+2020-05-07T18:52:11.677 [Information] {"processtime": 90}
+2020-05-07T18:52:16.800 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:16.7974875Z', Id=c5b3d3cd-a6de-43c6-ae61-b52c47569d3d)
+2020-05-07T18:52:16.800 [Information] Documents modified 1
+2020-05-07T18:52:16.800 [Information] First document Id s266-t1-254c556dc390-hub-1588877334025
+2020-05-07T18:52:16.813 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c5b3d3cd-a6de-43c6-ae61-b52c47569d3d)
+2020-05-07T18:52:16.842 [Information] {"processtime": 42}
+2020-05-07T18:52:22.015 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:21.9986200Z', Id=c4574616-139e-4612-b41f-af0872f15340)
+2020-05-07T18:52:22.016 [Information] Documents modified 2
+2020-05-07T18:52:22.016 [Information] First document Id s263-t1-50fe05052f11-hub-1588877334201
+2020-05-07T18:52:22.046 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c4574616-139e-4612-b41f-af0872f15340)
+2020-05-07T18:52:22.142 [Information] {"processtime": 126}
+2020-05-07T18:52:27.795 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:27.7774351Z', Id=02e6b4f3-884f-42db-a26f-7d13dd07c30b)
+2020-05-07T18:52:27.795 [Information] Documents modified 2
+2020-05-07T18:52:27.795 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877343987
+2020-05-07T18:52:27.806 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=02e6b4f3-884f-42db-a26f-7d13dd07c30b)
+2020-05-07T18:52:27.940 [Information] {"processtime": 145}
+2020-05-07T18:52:33.041 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:33.0389796Z', Id=2cd588ca-e3a7-4572-b9f2-3e09a4fbdc29)
+2020-05-07T18:52:33.042 [Information] Documents modified 1
+2020-05-07T18:52:33.042 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877344057
+2020-05-07T18:52:33.061 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2cd588ca-e3a7-4572-b9f2-3e09a4fbdc29)
+2020-05-07T18:52:33.080 [Information] {"processtime": 38}
+2020-05-07T18:52:38.258 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:38.2473211Z', Id=21bffdd8-206b-47bf-9327-d1b742c23081)
+2020-05-07T18:52:38.258 [Information] Documents modified 2
+2020-05-07T18:52:38.258 [Information] First document Id s263-t1-50fe05052f11-hub-1588877344234
+2020-05-07T18:52:38.287 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=21bffdd8-206b-47bf-9327-d1b742c23081)
+2020-05-07T18:52:38.329 [Information] {"processtime": 71}
+2020-05-07T18:52:43.499 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:43.4911635Z', Id=aa0fe8be-7a89-423d-8c70-ef09fcdb27c1)
+2020-05-07T18:52:43.500 [Information] Documents modified 1
+2020-05-07T18:52:43.500 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877348184
+2020-05-07T18:52:43.513 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=aa0fe8be-7a89-423d-8c70-ef09fcdb27c1)
+2020-05-07T18:52:43.537 [Information] {"processtime": 37}
+2020-05-07T18:52:44.260 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:44.2486399Z', Id=ab02b57c-db2a-4d2a-bc7a-8ad6913285f1)
+2020-05-07T18:52:44.260 [Information] Documents modified 1
+2020-05-07T18:52:44.260 [Information] First document Id s269-t1-badf92d4257a-hub-1588877349206
+2020-05-07T18:52:44.278 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ab02b57c-db2a-4d2a-bc7a-8ad6913285f1)
+2020-05-07T18:52:44.298 [Information] {"processtime": 38}
+2020-05-07T18:52:49.399 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:49.3905859Z', Id=6a7cfd3b-819c-42dd-8fb1-a8da383260bb)
+2020-05-07T18:52:49.400 [Information] Documents modified 1
+2020-05-07T18:52:49.400 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877349977
+2020-05-07T18:52:49.412 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6a7cfd3b-819c-42dd-8fb1-a8da383260bb)
+2020-05-07T18:52:49.450 [Information] {"processtime": 50}
+2020-05-07T18:52:54.660 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:54.5896792Z', Id=1b646c5c-66e8-40b1-97cd-9bf8b0a4f0a4)
+2020-05-07T18:52:54.660 [Information] Documents modified 2
+2020-05-07T18:52:54.660 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877351160
+2020-05-07T18:52:54.678 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1b646c5c-66e8-40b1-97cd-9bf8b0a4f0a4)
+2020-05-07T18:52:54.783 [Information] {"processtime": 123}
+2020-05-07T18:52:59.841 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:52:59.8350064Z', Id=b3c0744b-937a-4cba-914a-ff0a608fb932)
+2020-05-07T18:52:59.841 [Information] Documents modified 1
+2020-05-07T18:52:59.841 [Information] First document Id s263-t1-50fe05052f11-hub-1588877354267
+2020-05-07T18:52:59.852 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b3c0744b-937a-4cba-914a-ff0a608fb932)
+2020-05-07T18:52:59.873 [Information] {"processtime": 32}
+2020-05-07T18:53:05.096 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:05.0845684Z', Id=2f6e2846-1e96-4baa-b9a7-c262407af6a9)
+2020-05-07T18:53:05.103 [Information] Documents modified 2
+2020-05-07T18:53:05.103 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877355020
+2020-05-07T18:53:05.116 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2f6e2846-1e96-4baa-b9a7-c262407af6a9)
+2020-05-07T18:53:05.168 [Information] {"processtime": 65}
+2020-05-07T18:53:10.509 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:10.4394246Z', Id=119899e5-03f3-416c-895a-676395295122)
+2020-05-07T18:53:10.509 [Information] Documents modified 2
+2020-05-07T18:53:10.509 [Information] First document Id s262-t1-85c1058358b3-hub-1588877360204
+2020-05-07T18:53:10.527 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=119899e5-03f3-416c-895a-676395295122)
+2020-05-07T18:53:10.573 [Information] {"processtime": 64}
+2020-05-07T18:53:15.689 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:15.6869998Z', Id=4016963a-284e-4e90-803c-42e2b2961867)
+2020-05-07T18:53:15.690 [Information] Documents modified 1
+2020-05-07T18:53:15.690 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877364096
+2020-05-07T18:53:15.707 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4016963a-284e-4e90-803c-42e2b2961867)
+2020-05-07T18:53:15.738 [Information] {"processtime": 48}
+2020-05-07T18:53:20.930 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:20.9196182Z', Id=ea792713-a919-4c38-8efa-66e0c96b227b)
+2020-05-07T18:53:20.931 [Information] Documents modified 2
+2020-05-07T18:53:20.931 [Information] First document Id s263-t1-50fe05052f11-hub-1588877364299
+2020-05-07T18:53:20.950 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ea792713-a919-4c38-8efa-66e0c96b227b)
+2020-05-07T18:53:21.081 [Information] {"processtime": 150}
+2020-05-07T18:53:26.107 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:26.1003839Z', Id=2360b101-301c-433d-ad42-394ccaca999e)
+2020-05-07T18:53:26.107 [Information] Documents modified 1
+2020-05-07T18:53:26.107 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877367011
+2020-05-07T18:53:26.174 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2360b101-301c-433d-ad42-394ccaca999e)
+2020-05-07T18:53:26.191 [Information] {"processtime": 84}
+2020-05-07T18:53:31.398 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:31.3866922Z', Id=7d5d027c-e720-40d7-8124-0e36a764e275)
+2020-05-07T18:53:31.398 [Information] Documents modified 2
+2020-05-07T18:53:31.398 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877368219
+2020-05-07T18:53:31.410 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7d5d027c-e720-40d7-8124-0e36a764e275)
+2020-05-07T18:53:31.456 [Information] {"processtime": 58}
+2020-05-07T18:53:36.661 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:36.6503259Z', Id=a2c430ed-3183-47e4-b875-15a25dad4ac7)
+2020-05-07T18:53:36.662 [Information] Documents modified 2
+2020-05-07T18:53:36.662 [Information] First document Id s266-t1-254c556dc390-hub-1588877370094
+2020-05-07T18:53:36.679 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a2c430ed-3183-47e4-b875-15a25dad4ac7)
+2020-05-07T18:53:36.723 [Information] {"processtime": 60}
+2020-05-07T18:53:41.884 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:41.8816535Z', Id=b8f05af4-5129-4873-9936-dbb21e484167)
+2020-05-07T18:53:41.884 [Information] Documents modified 1
+2020-05-07T18:53:41.884 [Information] First document Id s262-t1-85c1058358b3-hub-1588877374237
+2020-05-07T18:53:41.903 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b8f05af4-5129-4873-9936-dbb21e484167)
+2020-05-07T18:53:41.929 [Information] {"processtime": 45}
+2020-05-07T18:53:47.109 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:47.1068288Z', Id=07a48c32-bb33-4f22-96f7-751c7e8873dd)
+2020-05-07T18:53:47.109 [Information] Documents modified 1
+2020-05-07T18:53:47.109 [Information] First document Id s263-t1-50fe05052f11-hub-1588877374334
+2020-05-07T18:53:47.126 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=07a48c32-bb33-4f22-96f7-751c7e8873dd)
+2020-05-07T18:53:47.245 [Information] {"processtime": 136}
+2020-05-07T18:53:52.228 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:52.2244736Z', Id=56232a8a-a5bd-45f5-aad9-ee1fd2a0ae58)
+2020-05-07T18:53:52.228 [Information] Documents modified 1
+2020-05-07T18:53:52.228 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877377086
+2020-05-07T18:53:52.298 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=56232a8a-a5bd-45f5-aad9-ee1fd2a0ae58)
+2020-05-07T18:53:52.299 [Information] {"processtime": 71}
+2020-05-07T18:53:57.532 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:53:57.5146808Z', Id=0719954b-be80-4cd3-abe6-5339b5614a82)
+2020-05-07T18:53:57.532 [Information] Documents modified 2
+2020-05-07T18:53:57.532 [Information] First document Id s269-t1-badf92d4257a-hub-1588877379306
+2020-05-07T18:53:57.544 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=0719954b-be80-4cd3-abe6-5339b5614a82)
+2020-05-07T18:53:57.666 [Information] {"processtime": 134}
+2020-05-07T18:54:02.932 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:02.9154665Z', Id=94c68210-5a70-43b0-830a-8af6185da78c)
+2020-05-07T18:54:02.933 [Information] Documents modified 2
+2020-05-07T18:54:02.933 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877384064
+2020-05-07T18:54:02.944 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=94c68210-5a70-43b0-830a-8af6185da78c)
+2020-05-07T18:54:03.156 [Information] {"processtime": 223}
+2020-05-07T18:54:08.101 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:08.0915051Z', Id=46d551e9-0558-4770-b0c9-4b6a3ec357dd)
+2020-05-07T18:54:08.101 [Information] Documents modified 1
+2020-05-07T18:54:08.101 [Information] First document Id s263-t1-50fe05052f11-hub-1588877384368
+2020-05-07T18:54:08.171 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=46d551e9-0558-4770-b0c9-4b6a3ec357dd)
+2020-05-07T18:54:08.238 [Information] {"processtime": 137}
+2020-05-07T18:54:13.456 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:13.4377796Z', Id=22595d37-15fa-4cfa-b29e-e604d26d1441)
+2020-05-07T18:54:13.456 [Information] Documents modified 2
+2020-05-07T18:54:13.456 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877388118
+2020-05-07T18:54:13.474 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=22595d37-15fa-4cfa-b29e-e604d26d1441)
+2020-05-07T18:54:13.533 [Information] {"processtime": 77}
+2020-05-07T18:54:18.666 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:18.6636856Z', Id=92855f0b-4f9d-40e8-a7cc-9722cc0e53fb)
+2020-05-07T18:54:18.666 [Information] Documents modified 1
+2020-05-07T18:54:18.666 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877388252
+2020-05-07T18:54:18.683 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=92855f0b-4f9d-40e8-a7cc-9722cc0e53fb)
+2020-05-07T18:54:18.749 [Information] {"processtime": 83}
+2020-05-07T18:54:19.263 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:19.2604818Z', Id=311afe92-1d52-4c39-a00b-c76921c9ed46)
+2020-05-07T18:54:19.263 [Information] Documents modified 1
+2020-05-07T18:54:19.263 [Information] First document Id s262-t1-85c1058358b3-hub-1588877388272
+2020-05-07T18:54:19.275 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=311afe92-1d52-4c39-a00b-c76921c9ed46)
+2020-05-07T18:54:19.358 [Information] {"processtime": 95}
+2020-05-07T18:54:24.540 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:24.4684155Z', Id=a44b3e8e-6468-4b2b-af98-6adcedfcf9df)
+2020-05-07T18:54:24.541 [Information] Documents modified 1
+2020-05-07T18:54:24.541 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877389231
+2020-05-07T18:54:24.559 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a44b3e8e-6468-4b2b-af98-6adcedfcf9df)
+2020-05-07T18:54:24.659 [Information] {"processtime": 118}
+2020-05-07T18:54:29.761 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:29.7436955Z', Id=ea235753-1119-4778-b0aa-3321e7faa251)
+2020-05-07T18:54:29.761 [Information] Documents modified 2
+2020-05-07T18:54:29.761 [Information] First document Id s269-t1-badf92d4257a-hub-1588877389341
+2020-05-07T18:54:29.780 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ea235753-1119-4778-b0aa-3321e7faa251)
+2020-05-07T18:54:29.878 [Information] {"processtime": 117}
+2020-05-07T18:54:34.996 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:34.9930273Z', Id=370d191f-5e69-43f4-93ee-3fca992387ba)
+2020-05-07T18:54:34.996 [Information] Documents modified 1
+2020-05-07T18:54:34.996 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877399151
+2020-05-07T18:54:35.014 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=370d191f-5e69-43f4-93ee-3fca992387ba)
+2020-05-07T18:54:35.033 [Information] {"processtime": 37}
+2020-05-07T18:54:40.177 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:40.1638716Z', Id=61bf93b4-ba32-43f9-8399-f29893670e9d)
+2020-05-07T18:54:40.177 [Information] Documents modified 2
+2020-05-07T18:54:40.177 [Information] First document Id s269-t1-badf92d4257a-hub-1588877399374
+2020-05-07T18:54:40.250 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=61bf93b4-ba32-43f9-8399-f29893670e9d)
+2020-05-07T18:54:40.387 [Information] {"processtime": 210}
+2020-05-07T18:54:45.484 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:45.4787540Z', Id=503b697c-7a08-495f-b6e7-aaa6746d5637)
+2020-05-07T18:54:45.484 [Information] Documents modified 1
+2020-05-07T18:54:45.484 [Information] First document Id s262-t1-85c1058358b3-hub-1588877402310
+2020-05-07T18:54:45.495 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=503b697c-7a08-495f-b6e7-aaa6746d5637)
+2020-05-07T18:54:45.516 [Information] {"processtime": 32}
+2020-05-07T18:54:55.703 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:54:55.6740561Z', Id=230051c0-afb9-4ff8-979b-1a747dbf9887)
+2020-05-07T18:54:55.703 [Information] Documents modified 2
+2020-05-07T18:54:55.703 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877404103
+2020-05-07T18:54:55.714 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=230051c0-afb9-4ff8-979b-1a747dbf9887)
+2020-05-07T18:54:55.757 [Information] {"processtime": 54}
+2020-05-07T18:55:00.945 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:00.9344991Z', Id=9b1a8f20-95fc-4bbd-adc1-5a33d72ed27a)
+2020-05-07T18:55:00.945 [Information] Documents modified 2
+2020-05-07T18:55:00.946 [Information] First document Id s263-t1-50fe05052f11-hub-1588877404433
+2020-05-07T18:55:01.015 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=9b1a8f20-95fc-4bbd-adc1-5a33d72ed27a)
+2020-05-07T18:55:01.064 [Information] {"processtime": 118}
+2020-05-07T18:55:06.273 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:06.2701747Z', Id=5e6d6a1a-5eb6-4640-87a9-28e05a217910)
+2020-05-07T18:55:06.273 [Information] Documents modified 1
+2020-05-07T18:55:06.273 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877408264
+2020-05-07T18:55:06.291 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=5e6d6a1a-5eb6-4640-87a9-28e05a217910)
+2020-05-07T18:55:06.359 [Information] {"processtime": 86}
+2020-05-07T18:55:11.483 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:11.4550067Z', Id=5a0398e3-3d0b-4026-a477-11fe8a36ba9d)
+2020-05-07T18:55:11.484 [Information] Documents modified 2
+2020-05-07T18:55:11.484 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877408290
+2020-05-07T18:55:11.501 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=5a0398e3-3d0b-4026-a477-11fe8a36ba9d)
+2020-05-07T18:55:11.548 [Information] {"processtime": 64}
+2020-05-07T18:55:16.793 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:16.7901050Z', Id=ca2efa73-f76d-4237-93f3-88d021997982)
+2020-05-07T18:55:16.793 [Information] Documents modified 1
+2020-05-07T18:55:16.793 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877410184
+2020-05-07T18:55:16.804 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ca2efa73-f76d-4237-93f3-88d021997982)
+2020-05-07T18:55:16.825 [Information] {"processtime": 32}
+2020-05-07T18:55:22.102 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:22.0858768Z', Id=ef324459-2d73-481a-88b3-d20fdfe01a16)
+2020-05-07T18:55:22.103 [Information] Documents modified 2
+2020-05-07T18:55:22.103 [Information] First document Id s263-t1-50fe05052f11-hub-1588877414466
+2020-05-07T18:55:22.114 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ef324459-2d73-481a-88b3-d20fdfe01a16)
+2020-05-07T18:55:22.160 [Information] {"processtime": 57}
+2020-05-07T18:55:27.309 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:27.3069694Z', Id=5c237b8b-b0ab-46ac-9527-02bd275899af)
+2020-05-07T18:55:27.310 [Information] Documents modified 1
+2020-05-07T18:55:27.310 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877418122
+2020-05-07T18:55:27.340 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=5c237b8b-b0ab-46ac-9527-02bd275899af)
+2020-05-07T18:55:27.446 [Information] {"processtime": 136}
+2020-05-07T18:55:27.947 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:27.9445772Z', Id=89725d22-2b81-4794-b5ab-974d9a830c5e)
+2020-05-07T18:55:27.947 [Information] Documents modified 1
+2020-05-07T18:55:27.947 [Information] First document Id s269-t1-badf92d4257a-hub-1588877419440
+2020-05-07T18:55:27.965 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=89725d22-2b81-4794-b5ab-974d9a830c5e)
+2020-05-07T18:55:27.984 [Information] {"processtime": 37}
+2020-05-07T18:55:33.163 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:33.1610444Z', Id=9de7627c-6f22-42d5-b4be-99c913c020e2)
+2020-05-07T18:55:33.163 [Information] Documents modified 1
+2020-05-07T18:55:33.164 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877421217
+2020-05-07T18:55:33.176 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=9de7627c-6f22-42d5-b4be-99c913c020e2)
+2020-05-07T18:55:33.260 [Information] {"processtime": 96}
+2020-05-07T18:55:38.506 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:38.4949674Z', Id=dd6ad9d1-cc77-4f5d-a10b-d8c717864d75)
+2020-05-07T18:55:38.512 [Information] Documents modified 2
+2020-05-07T18:55:38.512 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877424143
+2020-05-07T18:55:38.523 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=dd6ad9d1-cc77-4f5d-a10b-d8c717864d75)
+2020-05-07T18:55:38.573 [Information] {"processtime": 61}
+2020-05-07T18:55:43.738 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:43.7180745Z', Id=506aaddc-4f10-45e0-ba81-0285e1ba8d2d)
+2020-05-07T18:55:43.738 [Information] Documents modified 1
+2020-05-07T18:55:43.738 [Information] First document Id s266-t1-254c556dc390-hub-1588877424199
+2020-05-07T18:55:43.750 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=506aaddc-4f10-45e0-ba81-0285e1ba8d2d)
+2020-05-07T18:55:43.770 [Information] {"processtime": 32}
+2020-05-07T18:55:48.978 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:48.9674412Z', Id=eceefd9d-59ef-4327-88fe-68e6e7296f04)
+2020-05-07T18:55:48.978 [Information] Documents modified 2
+2020-05-07T18:55:48.978 [Information] First document Id s263-t1-50fe05052f11-hub-1588877424500
+2020-05-07T18:55:48.997 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=eceefd9d-59ef-4327-88fe-68e6e7296f04)
+2020-05-07T18:55:49.128 [Information] {"processtime": 150}
+2020-05-07T18:55:54.296 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:54.2876768Z', Id=557c89cf-187b-4344-a9bd-aead5dea33f9)
+2020-05-07T18:55:54.297 [Information] Documents modified 1
+2020-05-07T18:55:54.297 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877428329
+2020-05-07T18:55:54.308 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=557c89cf-187b-4344-a9bd-aead5dea33f9)
+2020-05-07T18:55:54.329 [Information] {"processtime": 32}
+2020-05-07T18:55:54.699 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:54.6967790Z', Id=011d5264-36f6-4d47-a13a-6440ce77dcaa)
+2020-05-07T18:55:54.699 [Information] Documents modified 1
+2020-05-07T18:55:54.699 [Information] First document Id s269-t1-badf92d4257a-hub-1588877429472
+2020-05-07T18:55:54.711 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=011d5264-36f6-4d47-a13a-6440ce77dcaa)
+2020-05-07T18:55:54.728 [Information] {"processtime": 29}
+2020-05-07T18:55:59.893 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:55:59.8770161Z', Id=fd8baffe-eab1-4f8d-8565-a5d2a1c77b4f)
+2020-05-07T18:55:59.893 [Information] Documents modified 1
+2020-05-07T18:55:59.893 [Information] First document Id s262-t1-85c1058358b3-hub-1588877430378
+2020-05-07T18:55:59.911 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=fd8baffe-eab1-4f8d-8565-a5d2a1c77b4f)
+2020-05-07T18:55:59.937 [Information] {"processtime": 44}
+2020-05-07T18:56:05.139 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:05.1280873Z', Id=3b0da985-452b-4263-9942-ee6ae9401a70)
+2020-05-07T18:56:05.140 [Information] Documents modified 2
+2020-05-07T18:56:05.140 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877432249
+2020-05-07T18:56:05.158 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3b0da985-452b-4263-9942-ee6ae9401a70)
+2020-05-07T18:56:05.258 [Information] {"processtime": 118}
+2020-05-07T18:56:10.429 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:10.4262244Z', Id=b24f419e-32b8-469e-a56f-347812bc9568)
+2020-05-07T18:56:10.429 [Information] Documents modified 1
+2020-05-07T18:56:10.429 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877435160
+2020-05-07T18:56:10.446 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b24f419e-32b8-469e-a56f-347812bc9568)
+2020-05-07T18:56:10.545 [Information] {"processtime": 116}
+2020-05-07T18:56:15.634 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:15.6178794Z', Id=0143c0eb-223b-4172-9901-37cd9e9ac1fd)
+2020-05-07T18:56:15.635 [Information] Documents modified 2
+2020-05-07T18:56:15.635 [Information] First document Id s269-t1-badf92d4257a-hub-1588877439505
+2020-05-07T18:56:15.665 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=0143c0eb-223b-4172-9901-37cd9e9ac1fd)
+2020-05-07T18:56:15.789 [Information] {"processtime": 154}
+2020-05-07T18:56:21.436 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:21.4211866Z', Id=101347c7-ed41-4d37-9df5-44cfce4d3d08)
+2020-05-07T18:56:21.436 [Information] Documents modified 2
+2020-05-07T18:56:21.436 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877443282
+2020-05-07T18:56:21.447 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=101347c7-ed41-4d37-9df5-44cfce4d3d08)
+2020-05-07T18:56:21.563 [Information] {"processtime": 127}
+2020-05-07T18:56:26.647 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:26.6442328Z', Id=8105e824-93ef-49b5-9723-19e8b7ac8d1d)
+2020-05-07T18:56:26.647 [Information] Documents modified 1
+2020-05-07T18:56:26.647 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877444234
+2020-05-07T18:56:26.665 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=8105e824-93ef-49b5-9723-19e8b7ac8d1d)
+2020-05-07T18:56:26.757 [Information] {"processtime": 110}
+2020-05-07T18:56:31.891 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:31.8680729Z', Id=c0db14d4-6704-4aba-b630-085ab5a82c03)
+2020-05-07T18:56:31.891 [Information] Documents modified 2
+2020-05-07T18:56:31.892 [Information] First document Id s262-t1-85c1058358b3-hub-1588877444411
+2020-05-07T18:56:31.909 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c0db14d4-6704-4aba-b630-085ab5a82c03)
+2020-05-07T18:56:31.984 [Information] {"processtime": 92}
+2020-05-07T18:56:37.257 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:37.2395874Z', Id=e6bb04c5-00ab-456d-ab3f-fd46097acf31)
+2020-05-07T18:56:37.257 [Information] Documents modified 2
+2020-05-07T18:56:37.257 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877446332
+2020-05-07T18:56:37.270 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e6bb04c5-00ab-456d-ab3f-fd46097acf31)
+2020-05-07T18:56:37.404 [Information] {"processtime": 147}
+2020-05-07T18:56:42.484 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:42.4809022Z', Id=69c29614-8d95-4893-99fb-3ef1a8a613c8)
+2020-05-07T18:56:42.484 [Information] Documents modified 1
+2020-05-07T18:56:42.490 [Information] First document Id s269-t1-badf92d4257a-hub-1588877449538
+2020-05-07T18:56:42.501 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=69c29614-8d95-4893-99fb-3ef1a8a613c8)
+2020-05-07T18:56:42.524 [Information] {"processtime": 34}
+2020-05-07T18:56:47.736 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:47.7080030Z', Id=c952d763-6bfe-4226-9a18-78ba99c30c5e)
+2020-05-07T18:56:47.737 [Information] Documents modified 2
+2020-05-07T18:56:47.737 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877452193
+2020-05-07T18:56:47.749 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c952d763-6bfe-4226-9a18-78ba99c30c5e)
+2020-05-07T18:56:47.884 [Information] {"processtime": 147}
+2020-05-07T18:56:52.986 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:52.9839058Z', Id=185e4f66-b7f2-4cf5-ac7e-5c76fdeb8f7d)
+2020-05-07T18:56:52.987 [Information] Documents modified 1
+2020-05-07T18:56:52.987 [Information] First document Id s263-t1-50fe05052f11-hub-1588877454597
+2020-05-07T18:56:52.999 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=185e4f66-b7f2-4cf5-ac7e-5c76fdeb8f7d)
+2020-05-07T18:56:53.037 [Information] {"processtime": 50}
+2020-05-07T18:56:58.239 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:56:58.2220018Z', Id=90534856-c352-4e4f-9e5f-e5c3a1fc605b)
+2020-05-07T18:56:58.239 [Information] Documents modified 2
+2020-05-07T18:56:58.239 [Information] First document Id s262-t1-85c1058358b3-hub-1588877458448
+2020-05-07T18:56:58.251 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=90534856-c352-4e4f-9e5f-e5c3a1fc605b)
+2020-05-07T18:56:58.298 [Information] {"processtime": 59}
+2020-05-07T18:57:03.477 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:03.4686181Z', Id=90f29caf-a687-44db-891f-9fd9ae683077)
+2020-05-07T18:57:03.477 [Information] Documents modified 1
+2020-05-07T18:57:03.477 [Information] First document Id s266-t1-254c556dc390-hub-1588877460273
+2020-05-07T18:57:03.507 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=90f29caf-a687-44db-891f-9fd9ae683077)
+2020-05-07T18:57:03.529 [Information] {"processtime": 52}
+2020-05-07T18:57:08.740 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:08.7232030Z', Id=459248a4-5d02-4f57-b4e9-5d9c3b4b6e37)
+2020-05-07T18:57:08.740 [Information] Documents modified 2
+2020-05-07T18:57:08.740 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877464212
+2020-05-07T18:57:08.752 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=459248a4-5d02-4f57-b4e9-5d9c3b4b6e37)
+2020-05-07T18:57:08.857 [Information] {"processtime": 117}
+2020-05-07T18:57:14.015 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:14.0123142Z', Id=0630c427-b61b-4c22-9679-803b4df0053c)
+2020-05-07T18:57:14.021 [Information] Documents modified 1
+2020-05-07T18:57:14.021 [Information] First document Id s263-t1-50fe05052f11-hub-1588877464629
+2020-05-07T18:57:14.034 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=0630c427-b61b-4c22-9679-803b4df0053c)
+2020-05-07T18:57:14.149 [Information] {"processtime": 128}
+2020-05-07T18:57:19.298 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:19.2808852Z', Id=8aecc9bf-d910-449e-a976-db34d81f0b3e)
+2020-05-07T18:57:19.299 [Information] Documents modified 2
+2020-05-07T18:57:19.299 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877465348
+2020-05-07T18:57:19.310 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=8aecc9bf-d910-449e-a976-db34d81f0b3e)
+2020-05-07T18:57:19.366 [Information] {"processtime": 67}
+2020-05-07T18:57:25.041 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:25.0299795Z', Id=362d36f6-fb11-480b-b5a2-dd38feec8108)
+2020-05-07T18:57:25.041 [Information] Documents modified 2
+2020-05-07T18:57:25.041 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877468396
+2020-05-07T18:57:25.059 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=362d36f6-fb11-480b-b5a2-dd38feec8108)
+2020-05-07T18:57:25.108 [Information] {"processtime": 67}
+2020-05-07T18:57:30.338 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:30.3293074Z', Id=ff098dd2-ddb9-48ef-80f1-abfa7909cb28)
+2020-05-07T18:57:30.338 [Information] Documents modified 1
+2020-05-07T18:57:30.339 [Information] First document Id s269-t1-badf92d4257a-hub-1588877469603
+2020-05-07T18:57:30.358 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ff098dd2-ddb9-48ef-80f1-abfa7909cb28)
+2020-05-07T18:57:30.445 [Information] {"processtime": 106}
+2020-05-07T18:57:35.644 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:35.6337036Z', Id=c4aa11fc-a179-4c09-ad60-893fad4708a4)
+2020-05-07T18:57:35.650 [Information] Documents modified 2
+2020-05-07T18:57:35.650 [Information] First document Id s262-t1-85c1058358b3-hub-1588877472483
+2020-05-07T18:57:35.662 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c4aa11fc-a179-4c09-ad60-893fad4708a4)
+2020-05-07T18:57:35.799 [Information] {"processtime": 149}
+2020-05-07T18:57:40.983 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:40.9656178Z', Id=a0e26d4e-663a-41bf-a69e-14bb79a028d5)
+2020-05-07T18:57:40.984 [Information] Documents modified 2
+2020-05-07T18:57:40.984 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877476383
+2020-05-07T18:57:40.996 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a0e26d4e-663a-41bf-a69e-14bb79a028d5)
+2020-05-07T18:57:41.081 [Information] {"processtime": 97}
+2020-05-07T18:57:46.289 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:46.2813197Z', Id=a007fea0-dd16-42e0-847a-dcaaeb2ded44)
+2020-05-07T18:57:46.290 [Information] Documents modified 1
+2020-05-07T18:57:46.290 [Information] First document Id s269-t1-badf92d4257a-hub-1588877479638
+2020-05-07T18:57:46.307 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a007fea0-dd16-42e0-847a-dcaaeb2ded44)
+2020-05-07T18:57:46.327 [Information] {"processtime": 37}
+2020-05-07T18:57:51.532 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:51.5207628Z', Id=a7091d80-a694-44cd-a741-9c6db0557e10)
+2020-05-07T18:57:51.532 [Information] Documents modified 2
+2020-05-07T18:57:51.532 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877484245
+2020-05-07T18:57:51.550 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a7091d80-a694-44cd-a741-9c6db0557e10)
+2020-05-07T18:57:51.686 [Information] {"processtime": 154}
+2020-05-07T18:57:56.761 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:57:56.7525574Z', Id=4263efca-1c3b-4343-b881-51b437deea06)
+2020-05-07T18:57:56.761 [Information] Documents modified 1
+2020-05-07T18:57:56.761 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877484401
+2020-05-07T18:57:56.774 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4263efca-1c3b-4343-b881-51b437deea06)
+2020-05-07T18:57:56.846 [Information] {"processtime": 85}
+2020-05-07T18:58:02.020 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:02.0026315Z', Id=2b25ef06-72c8-4158-97e5-e45971d299f7)
+2020-05-07T18:58:02.020 [Information] Documents modified 2
+2020-05-07T18:58:02.020 [Information] First document Id s263-t1-50fe05052f11-hub-1588877484694
+2020-05-07T18:58:02.099 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2b25ef06-72c8-4158-97e5-e45971d299f7)
+2020-05-07T18:58:02.146 [Information] {"processtime": 126}
+2020-05-07T18:58:07.786 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:07.7692428Z', Id=279170c7-844a-4e98-9cee-20892aaeef04)
+2020-05-07T18:58:07.786 [Information] Documents modified 2
+2020-05-07T18:58:07.786 [Information] First document Id s262-t1-85c1058358b3-hub-1588877486517
+2020-05-07T18:58:07.798 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=279170c7-844a-4e98-9cee-20892aaeef04)
+2020-05-07T18:58:07.857 [Information] {"processtime": 71}
+2020-05-07T18:58:12.990 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:12.9815440Z', Id=812c369d-fa2c-4644-ac98-cedd53075462)
+2020-05-07T18:58:12.990 [Information] Documents modified 1
+2020-05-07T18:58:12.990 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877488431
+2020-05-07T18:58:13.010 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=812c369d-fa2c-4644-ac98-cedd53075462)
+2020-05-07T18:58:13.056 [Information] {"processtime": 65}
+2020-05-07T18:58:18.308 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:18.2332365Z', Id=38c0e0f4-4fed-4c16-b7a3-d41aa86845bf)
+2020-05-07T18:58:18.309 [Information] Documents modified 2
+2020-05-07T18:58:18.309 [Information] First document Id s269-t1-badf92d4257a-hub-1588877489673
+2020-05-07T18:58:18.321 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=38c0e0f4-4fed-4c16-b7a3-d41aa86845bf)
+2020-05-07T18:58:18.366 [Information] {"processtime": 57}
+2020-05-07T18:58:23.525 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:23.5171858Z', Id=4060d65a-defc-49e1-a601-a5315400baa8)
+2020-05-07T18:58:23.525 [Information] Documents modified 1
+2020-05-07T18:58:23.525 [Information] First document Id s266-t1-254c556dc390-hub-1588877496345
+2020-05-07T18:58:23.536 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4060d65a-defc-49e1-a601-a5315400baa8)
+2020-05-07T18:58:23.557 [Information] {"processtime": 32}
+2020-05-07T18:58:23.903 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:23.8954402Z', Id=581d9818-c95a-4098-9b31-5e2f5d7ec0ac)
+2020-05-07T18:58:23.904 [Information] Documents modified 1
+2020-05-07T18:58:23.904 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877498449
+2020-05-07T18:58:23.922 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=581d9818-c95a-4098-9b31-5e2f5d7ec0ac)
+2020-05-07T18:58:23.943 [Information] {"processtime": 39}
+2020-05-07T18:58:29.142 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:29.1340703Z', Id=c1260400-2a1d-4777-b0a6-90e499632c9a)
+2020-05-07T18:58:29.142 [Information] Documents modified 1
+2020-05-07T18:58:29.143 [Information] First document Id s269-t1-badf92d4257a-hub-1588877499705
+2020-05-07T18:58:29.154 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c1260400-2a1d-4777-b0a6-90e499632c9a)
+2020-05-07T18:58:29.246 [Information] {"processtime": 103}
+2020-05-07T18:58:34.370 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:34.3439373Z', Id=a21ae471-9622-49b7-abf5-d0c4e8c4ec17)
+2020-05-07T18:58:34.371 [Information] Documents modified 2
+2020-05-07T18:58:34.371 [Information] First document Id s262-t1-85c1058358b3-hub-1588877500550
+2020-05-07T18:58:34.382 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a21ae471-9622-49b7-abf5-d0c4e8c4ec17)
+2020-05-07T18:58:34.477 [Information] {"processtime": 105}
+2020-05-07T18:58:39.526 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:39.5236717Z', Id=d8502c6d-fdee-4419-a9ec-0239ba8243dc)
+2020-05-07T18:58:39.526 [Information] Documents modified 1
+2020-05-07T18:58:39.526 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877503439
+2020-05-07T18:58:39.544 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d8502c6d-fdee-4419-a9ec-0239ba8243dc)
+2020-05-07T18:58:39.563 [Information] {"processtime": 37}
+2020-05-07T18:58:44.802 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:44.7920163Z', Id=66f105c9-7c81-4d39-8e70-08059009ef63)
+2020-05-07T18:58:44.810 [Information] Documents modified 2
+2020-05-07T18:58:44.810 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877504278
+2020-05-07T18:58:44.828 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=66f105c9-7c81-4d39-8e70-08059009ef63)
+2020-05-07T18:58:44.968 [Information] {"processtime": 158}
+2020-05-07T18:58:50.090 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:50.0593169Z', Id=99ed1656-4f07-4923-a867-01b5ce9e1a1b)
+2020-05-07T18:58:50.092 [Information] Documents modified 2
+2020-05-07T18:58:50.099 [Information] First document Id s263-t1-50fe05052f11-hub-1588877504759
+2020-05-07T18:58:50.110 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=99ed1656-4f07-4923-a867-01b5ce9e1a1b)
+2020-05-07T18:58:50.164 [Information] {"processtime": 65}
+2020-05-07T18:58:55.277 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:58:55.2738052Z', Id=a2f85ae2-dc4c-4fb8-856a-2371e5e34813)
+2020-05-07T18:58:55.277 [Information] Documents modified 1
+2020-05-07T18:58:55.277 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877509482
+2020-05-07T18:58:55.295 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a2f85ae2-dc4c-4fb8-856a-2371e5e34813)
+2020-05-07T18:58:55.319 [Information] {"processtime": 42}
+2020-05-07T18:59:00.572 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:00.5640087Z', Id=91ae6b75-1515-49f2-ad83-361d9d6f941b)
+2020-05-07T18:59:00.572 [Information] Documents modified 1
+2020-05-07T18:59:00.572 [Information] First document Id s269-t1-badf92d4257a-hub-1588877509739
+2020-05-07T18:59:00.584 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=91ae6b75-1515-49f2-ad83-361d9d6f941b)
+2020-05-07T18:59:00.657 [Information] {"processtime": 85}
+2020-05-07T18:59:05.788 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:05.7710207Z', Id=eac17250-9785-4f3c-9de9-b5617a27551e)
+2020-05-07T18:59:05.789 [Information] Documents modified 2
+2020-05-07T18:59:05.789 [Information] First document Id s266-t1-254c556dc390-hub-1588877514378
+2020-05-07T18:59:05.802 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=eac17250-9785-4f3c-9de9-b5617a27551e)
+2020-05-07T18:59:05.895 [Information] {"processtime": 106}
+2020-05-07T18:59:11.450 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:11.4384980Z', Id=6552b716-25e7-452f-b7de-892a057bdba7)
+2020-05-07T18:59:11.450 [Information] Documents modified 2
+2020-05-07T18:59:11.450 [Information] First document Id s263-t1-50fe05052f11-hub-1588877514792
+2020-05-07T18:59:11.469 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6552b716-25e7-452f-b7de-892a057bdba7)
+2020-05-07T18:59:11.516 [Information] {"processtime": 66}
+2020-05-07T18:59:16.627 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:16.6246798Z', Id=fb321b91-53c2-4d29-b59b-65df94396aa0)
+2020-05-07T18:59:16.633 [Information] Documents modified 1
+2020-05-07T18:59:16.633 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877520328
+2020-05-07T18:59:16.645 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=fb321b91-53c2-4d29-b59b-65df94396aa0)
+2020-05-07T18:59:16.750 [Information] {"processtime": 117}
+2020-05-07T18:59:21.873 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:21.8618257Z', Id=8331ef45-56cf-4fd5-b63e-03645a39caaf)
+2020-05-07T18:59:21.873 [Information] Documents modified 2
+2020-05-07T18:59:21.873 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877520519
+2020-05-07T18:59:21.901 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=8331ef45-56cf-4fd5-b63e-03645a39caaf)
+2020-05-07T18:59:21.973 [Information] {"processtime": 100}
+2020-05-07T18:59:27.058 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:27.0546890Z', Id=bf42e47e-740e-44bb-9f00-541100eb55fa)
+2020-05-07T18:59:27.064 [Information] Documents modified 1
+2020-05-07T18:59:27.064 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877524320
+2020-05-07T18:59:27.076 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=bf42e47e-740e-44bb-9f00-541100eb55fa)
+2020-05-07T18:59:27.143 [Information] {"processtime": 79}
+2020-05-07T18:59:32.331 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:32.2453822Z', Id=74015c13-6736-443e-8493-7a200b798d3b)
+2020-05-07T18:59:32.332 [Information] Documents modified 2
+2020-05-07T18:59:32.332 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877524385
+2020-05-07T18:59:32.344 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=74015c13-6736-443e-8493-7a200b798d3b)
+2020-05-07T18:59:32.464 [Information] {"processtime": 132}
+2020-05-07T18:59:37.565 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:37.5484658Z', Id=bdd72c82-f93a-4537-884f-365b66ccefd1)
+2020-05-07T18:59:37.565 [Information] Documents modified 2
+2020-05-07T18:59:37.565 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877528496
+2020-05-07T18:59:37.595 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=bdd72c82-f93a-4537-884f-365b66ccefd1)
+2020-05-07T18:59:37.642 [Information] {"processtime": 77}
+2020-05-07T18:59:42.754 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:42.7458644Z', Id=7ed7d832-aa99-4099-9d09-3b58332b013b)
+2020-05-07T18:59:42.755 [Information] Documents modified 1
+2020-05-07T18:59:42.755 [Information] First document Id s269-t1-badf92d4257a-hub-1588877529808
+2020-05-07T18:59:42.767 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7ed7d832-aa99-4099-9d09-3b58332b013b)
+2020-05-07T18:59:42.838 [Information] {"processtime": 82}
+2020-05-07T18:59:48.025 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:47.9474725Z', Id=7932a8e3-b48e-499c-adc8-841037f4265d)
+2020-05-07T18:59:48.025 [Information] Documents modified 2
+2020-05-07T18:59:48.025 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877531552
+2020-05-07T18:59:48.042 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7932a8e3-b48e-499c-adc8-841037f4265d)
+2020-05-07T18:59:48.159 [Information] {"processtime": 134}
+2020-05-07T18:59:53.258 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:53.2558772Z', Id=6e99dc01-ae7d-4fe9-8463-5b131d33b1bc)
+2020-05-07T18:59:53.258 [Information] Documents modified 1
+2020-05-07T18:59:53.258 [Information] First document Id s263-t1-50fe05052f11-hub-1588877534859
+2020-05-07T18:59:53.276 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6e99dc01-ae7d-4fe9-8463-5b131d33b1bc)
+2020-05-07T18:59:53.296 [Information] {"processtime": 38}
+2020-05-07T18:59:58.476 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T18:59:58.4645688Z', Id=69f33392-2335-4221-a9e3-0c82875023da)
+2020-05-07T18:59:58.476 [Information] Documents modified 2
+2020-05-07T18:59:58.476 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877537361
+2020-05-07T18:59:58.494 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=69f33392-2335-4221-a9e3-0c82875023da)
+2020-05-07T18:59:58.544 [Information] {"processtime": 68}
+2020-05-07T19:00:03.703 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:03.6978780Z', Id=5784a783-30ee-4bd4-9d4b-0cb0e369e735)
+2020-05-07T19:00:03.703 [Information] Documents modified 1
+2020-05-07T19:00:03.703 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877541507
+2020-05-07T19:00:03.775 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=5784a783-30ee-4bd4-9d4b-0cb0e369e735)
+2020-05-07T19:00:03.837 [Information] {"processtime": 134}
+2020-05-07T19:00:09.044 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:09.0327734Z', Id=3541d307-1657-4b46-9019-2b371e95bf52)
+2020-05-07T19:00:09.044 [Information] Documents modified 2
+2020-05-07T19:00:09.044 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877542585
+2020-05-07T19:00:09.063 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3541d307-1657-4b46-9019-2b371e95bf52)
+2020-05-07T19:00:09.160 [Information] {"processtime": 116}
+2020-05-07T19:00:14.447 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:14.4298394Z', Id=e983c969-cd3c-4d8e-afe4-95627eb9480f)
+2020-05-07T19:00:14.448 [Information] Documents modified 2
+2020-05-07T19:00:14.448 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877544353
+2020-05-07T19:00:14.459 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e983c969-cd3c-4d8e-afe4-95627eb9480f)
+2020-05-07T19:00:14.557 [Information] {"processtime": 109}
+2020-05-07T19:00:19.606 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:19.5971419Z', Id=20ad8598-0820-42bf-b06b-ecf844b0ab1d)
+2020-05-07T19:00:19.606 [Information] Documents modified 1
+2020-05-07T19:00:19.606 [Information] First document Id s263-t1-50fe05052f11-hub-1588877544893
+2020-05-07T19:00:19.626 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=20ad8598-0820-42bf-b06b-ecf844b0ab1d)
+2020-05-07T19:00:19.657 [Information] {"processtime": 51}
+2020-05-07T19:00:24.762 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:24.7455803Z', Id=f153e7ce-1f20-4ed3-8445-276c1db79686)
+2020-05-07T19:00:24.763 [Information] Documents modified 2
+2020-05-07T19:00:24.763 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877548530
+2020-05-07T19:00:24.775 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f153e7ce-1f20-4ed3-8445-276c1db79686)
+2020-05-07T19:00:24.823 [Information] {"processtime": 60}
+2020-05-07T19:00:29.933 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:29.9243050Z', Id=3721e8f7-9978-47e8-89c8-9a5d0389c2e7)
+2020-05-07T19:00:29.933 [Information] Documents modified 1
+2020-05-07T19:00:29.933 [Information] First document Id s266-t1-254c556dc390-hub-1588877550448
+2020-05-07T19:00:29.951 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3721e8f7-9978-47e8-89c8-9a5d0389c2e7)
+2020-05-07T19:00:29.970 [Information] {"processtime": 37}
+2020-05-07T19:00:35.027 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:35.0078806Z', Id=cc47b30f-5992-4591-acc5-8ef5218f6bb2)
+2020-05-07T19:00:35.027 [Information] Documents modified 2
+2020-05-07T19:00:35.027 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877553618
+2020-05-07T19:00:35.046 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=cc47b30f-5992-4591-acc5-8ef5218f6bb2)
+2020-05-07T19:00:35.199 [Information] {"processtime": 172}
+2020-05-07T19:00:40.123 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:40.1149918Z', Id=bff67ae8-f44f-445f-9a81-35afceaba1cf)
+2020-05-07T19:00:40.124 [Information] Documents modified 1
+2020-05-07T19:00:40.124 [Information] First document Id s263-t1-50fe05052f11-hub-1588877554926
+2020-05-07T19:00:40.136 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=bff67ae8-f44f-445f-9a81-35afceaba1cf)
+2020-05-07T19:00:40.237 [Information] {"processtime": 113}
+2020-05-07T19:00:45.245 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:45.2263175Z', Id=a519cb9d-a9b2-4a01-8354-3ffae6791a7d)
+2020-05-07T19:00:45.245 [Information] Documents modified 2
+2020-05-07T19:00:45.245 [Information] First document Id s262-t1-85c1058358b3-hub-1588877556690
+2020-05-07T19:00:45.324 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a519cb9d-a9b2-4a01-8354-3ffae6791a7d)
+2020-05-07T19:00:45.382 [Information] {"processtime": 137}
+2020-05-07T19:00:50.399 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:50.3907382Z', Id=187d6a17-4b5c-4636-9259-9ba34d87654f)
+2020-05-07T19:00:50.399 [Information] Documents modified 1
+2020-05-07T19:00:50.399 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877560542
+2020-05-07T19:00:50.411 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=187d6a17-4b5c-4636-9259-9ba34d87654f)
+2020-05-07T19:00:50.434 [Information] {"processtime": 34}
+2020-05-07T19:00:55.510 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:00:55.4988962Z', Id=e27afaf9-e0a7-4641-ac77-0969b03de583)
+2020-05-07T19:00:55.519 [Information] Documents modified 2
+2020-05-07T19:00:55.519 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877564387
+2020-05-07T19:00:55.538 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e27afaf9-e0a7-4641-ac77-0969b03de583)
+2020-05-07T19:00:55.651 [Information] {"processtime": 132}
+2020-05-07T19:01:00.641 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:00.6229371Z', Id=224183a0-2ff4-45bb-be59-8a4bc2ee9309)
+2020-05-07T19:01:00.641 [Information] Documents modified 2
+2020-05-07T19:01:00.641 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877564651
+2020-05-07T19:01:00.720 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=224183a0-2ff4-45bb-be59-8a4bc2ee9309)
+2020-05-07T19:01:00.766 [Information] {"processtime": 125}
+2020-05-07T19:01:05.800 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:05.7914053Z', Id=9c44a2e9-7b1e-46f2-b316-57a1621f409a)
+2020-05-07T19:01:05.800 [Information] Documents modified 1
+2020-05-07T19:01:05.800 [Information] First document Id s266-t1-254c556dc390-hub-1588877568483
+2020-05-07T19:01:05.812 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=9c44a2e9-7b1e-46f2-b316-57a1621f409a)
+2020-05-07T19:01:05.833 [Information] {"processtime": 33}
+2020-05-07T19:01:10.909 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:10.8978522Z', Id=73ea9b59-ffc3-4bfa-93b4-6026cc6f8155)
+2020-05-07T19:01:10.910 [Information] Documents modified 2
+2020-05-07T19:01:10.910 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877568567
+2020-05-07T19:01:10.927 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=73ea9b59-ffc3-4bfa-93b4-6026cc6f8155)
+2020-05-07T19:01:10.974 [Information] {"processtime": 64}
+2020-05-07T19:01:15.991 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:15.9822439Z', Id=ba3449ea-6ab7-4773-8a05-089805214635)
+2020-05-07T19:01:15.991 [Information] Documents modified 1
+2020-05-07T19:01:15.991 [Information] First document Id s262-t1-85c1058358b3-hub-1588877570726
+2020-05-07T19:01:16.069 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ba3449ea-6ab7-4773-8a05-089805214635)
+2020-05-07T19:01:16.161 [Information] {"processtime": 170}
+2020-05-07T19:01:21.180 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:21.1675924Z', Id=1029578a-b548-4ac0-b16e-917908789967)
+2020-05-07T19:01:21.181 [Information] Documents modified 2
+2020-05-07T19:01:21.181 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877571428
+2020-05-07T19:01:21.199 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1029578a-b548-4ac0-b16e-917908789967)
+2020-05-07T19:01:21.248 [Information] {"processtime": 62}
+2020-05-07T19:01:26.290 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:26.2701755Z', Id=c592c9ad-9676-4021-a9f3-94602cb5fa97)
+2020-05-07T19:01:26.290 [Information] Documents modified 1
+2020-05-07T19:01:26.290 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877575684
+2020-05-07T19:01:26.308 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c592c9ad-9676-4021-a9f3-94602cb5fa97)
+2020-05-07T19:01:26.349 [Information] {"processtime": 59}
+2020-05-07T19:01:31.404 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:31.3871183Z', Id=024b3965-5df9-4d96-8fe9-3d24c1dc0bb2)
+2020-05-07T19:01:31.404 [Information] Documents modified 2
+2020-05-07T19:01:31.405 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877579578
+2020-05-07T19:01:31.423 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=024b3965-5df9-4d96-8fe9-3d24c1dc0bb2)
+2020-05-07T19:01:31.473 [Information] {"processtime": 68}
+2020-05-07T19:01:36.529 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:36.5207207Z', Id=17e05487-9032-4a0e-8421-157840c0fe23)
+2020-05-07T19:01:36.530 [Information] Documents modified 1
+2020-05-07T19:01:36.530 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877584421
+2020-05-07T19:01:36.549 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=17e05487-9032-4a0e-8421-157840c0fe23)
+2020-05-07T19:01:36.574 [Information] {"processtime": 44}
+2020-05-07T19:01:41.630 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:41.6136868Z', Id=e85354e6-7106-49e4-b21b-598dff694ac8)
+2020-05-07T19:01:41.630 [Information] Documents modified 2
+2020-05-07T19:01:41.630 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877584487
+2020-05-07T19:01:41.703 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e85354e6-7106-49e4-b21b-598dff694ac8)
+2020-05-07T19:01:41.765 [Information] {"processtime": 134}
+2020-05-07T19:01:46.769 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:46.7606826Z', Id=5ef425ef-c8ee-4f3d-9d40-76b0acd359c3)
+2020-05-07T19:01:46.769 [Information] Documents modified 1
+2020-05-07T19:01:46.769 [Information] First document Id s263-t1-50fe05052f11-hub-1588877585028
+2020-05-07T19:01:46.781 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=5ef425ef-c8ee-4f3d-9d40-76b0acd359c3)
+2020-05-07T19:01:46.801 [Information] {"processtime": 32}
+2020-05-07T19:01:51.908 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:51.8794959Z', Id=66741a8a-6756-4fca-8f8a-f0c09aac5bd4)
+2020-05-07T19:01:51.908 [Information] Documents modified 2
+2020-05-07T19:01:51.908 [Information] First document Id s266-t1-254c556dc390-hub-1588877586516
+2020-05-07T19:01:51.925 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=66741a8a-6756-4fca-8f8a-f0c09aac5bd4)
+2020-05-07T19:01:51.986 [Information] {"processtime": 78}
+2020-05-07T19:01:57.003 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:01:56.9945319Z', Id=a1905f6b-f0b2-4458-9d98-ccbcbe7d357f)
+2020-05-07T19:01:57.003 [Information] Documents modified 1
+2020-05-07T19:01:57.003 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877588462
+2020-05-07T19:01:57.021 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a1905f6b-f0b2-4458-9d98-ccbcbe7d357f)
+2020-05-07T19:01:57.050 [Information] {"processtime": 47}
+2020-05-07T19:02:02.110 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:02.0989898Z', Id=958a656a-2d7f-4a38-96db-cc7c1aaa2beb)
+2020-05-07T19:02:02.110 [Information] Documents modified 2
+2020-05-07T19:02:02.116 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877588601
+2020-05-07T19:02:02.128 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=958a656a-2d7f-4a38-96db-cc7c1aaa2beb)
+2020-05-07T19:02:02.259 [Information] {"processtime": 143}
+2020-05-07T19:02:07.191 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:07.1827679Z', Id=3abd4847-d438-4afe-865e-67f0c0ab4809)
+2020-05-07T19:02:07.191 [Information] Documents modified 1
+2020-05-07T19:02:07.191 [Information] First document Id s263-t1-50fe05052f11-hub-1588877595061
+2020-05-07T19:02:07.271 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3abd4847-d438-4afe-865e-67f0c0ab4809)
+2020-05-07T19:02:07.357 [Information] {"processtime": 166}
+2020-05-07T19:02:12.389 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:12.3723824Z', Id=35a5772d-6296-4fa2-a980-4c8329567ead)
+2020-05-07T19:02:12.389 [Information] Documents modified 2
+2020-05-07T19:02:12.389 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877597755
+2020-05-07T19:02:12.407 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=35a5772d-6296-4fa2-a980-4c8329567ead)
+2020-05-07T19:02:12.480 [Information] {"processtime": 91}
+2020-05-07T19:02:17.616 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:17.6047758Z', Id=33d6c5dc-b8b1-4926-9b24-611bf4b6539f)
+2020-05-07T19:02:17.622 [Information] Documents modified 2
+2020-05-07T19:02:17.622 [Information] First document Id s262-t1-85c1058358b3-hub-1588877598793
+2020-05-07T19:02:17.633 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=33d6c5dc-b8b1-4926-9b24-611bf4b6539f)
+2020-05-07T19:02:17.741 [Information] {"processtime": 119}
+2020-05-07T19:02:22.698 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:22.6891800Z', Id=66a09762-f033-4ffb-bee4-a610321d1e41)
+2020-05-07T19:02:22.698 [Information] Documents modified 1
+2020-05-07T19:02:22.698 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877604454
+2020-05-07T19:02:22.718 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=66a09762-f033-4ffb-bee4-a610321d1e41)
+2020-05-07T19:02:22.746 [Information] {"processtime": 48}
+2020-05-07T19:02:27.827 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:27.8096270Z', Id=72e8f89a-c011-4061-8830-eaf7025f111c)
+2020-05-07T19:02:27.827 [Information] Documents modified 2
+2020-05-07T19:02:27.827 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877604523
+2020-05-07T19:02:27.839 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=72e8f89a-c011-4061-8830-eaf7025f111c)
+2020-05-07T19:02:27.975 [Information] {"processtime": 148}
+2020-05-07T19:02:32.971 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:32.9619506Z', Id=d53bfa36-0998-45b2-a5cb-a44100534254)
+2020-05-07T19:02:32.971 [Information] Documents modified 1
+2020-05-07T19:02:32.971 [Information] First document Id s263-t1-50fe05052f11-hub-1588877605094
+2020-05-07T19:02:32.982 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d53bfa36-0998-45b2-a5cb-a44100534254)
+2020-05-07T19:02:33.002 [Information] {"processtime": 31}
+2020-05-07T19:02:38.065 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:38.0475648Z', Id=f6698576-f749-46cf-a734-650772681764)
+2020-05-07T19:02:38.065 [Information] Documents modified 2
+2020-05-07T19:02:38.065 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877605498
+2020-05-07T19:02:38.084 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f6698576-f749-46cf-a734-650772681764)
+2020-05-07T19:02:38.195 [Information] {"processtime": 130}
+2020-05-07T19:02:43.177 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:43.1684846Z', Id=08bae4b6-d50f-4ff1-b3fb-18cbcad4c450)
+2020-05-07T19:02:43.177 [Information] Documents modified 1
+2020-05-07T19:02:43.177 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877608791
+2020-05-07T19:02:43.189 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=08bae4b6-d50f-4ff1-b3fb-18cbcad4c450)
+2020-05-07T19:02:43.209 [Information] {"processtime": 32}
+2020-05-07T19:02:48.277 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:48.2653852Z', Id=e76abe1a-342a-4d48-b9fb-7bc07c89ee5e)
+2020-05-07T19:02:48.277 [Information] Documents modified 2
+2020-05-07T19:02:48.277 [Information] First document Id s269-t1-badf92d4257a-hub-1588877610075
+2020-05-07T19:02:48.355 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e76abe1a-342a-4d48-b9fb-7bc07c89ee5e)
+2020-05-07T19:02:48.397 [Information] {"processtime": 120}
+2020-05-07T19:02:53.428 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:53.4192484Z', Id=8cb008bb-a22d-41bf-9d38-b6a7b8302385)
+2020-05-07T19:02:53.428 [Information] Documents modified 1
+2020-05-07T19:02:53.428 [Information] First document Id s263-t1-50fe05052f11-hub-1588877615128
+2020-05-07T19:02:53.447 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=8cb008bb-a22d-41bf-9d38-b6a7b8302385)
+2020-05-07T19:02:53.466 [Information] {"processtime": 38}
+2020-05-07T19:02:58.516 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:02:58.4968397Z', Id=1b315c37-9cd9-489a-8c2e-3a73ed6d21c6)
+2020-05-07T19:02:58.517 [Information] Documents modified 1
+2020-05-07T19:02:58.517 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877617648
+2020-05-07T19:02:58.534 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1b315c37-9cd9-489a-8c2e-3a73ed6d21c6)
+2020-05-07T19:02:58.639 [Information] {"processtime": 122}
+2020-05-07T19:03:03.633 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:03.6161683Z', Id=15f794bd-3dcf-467f-be89-1aa7b148a4b4)
+2020-05-07T19:03:03.634 [Information] Documents modified 2
+2020-05-07T19:03:03.634 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877619826
+2020-05-07T19:03:03.645 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=15f794bd-3dcf-467f-be89-1aa7b148a4b4)
+2020-05-07T19:03:03.698 [Information] {"processtime": 64}
+2020-05-07T19:03:08.723 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:08.7210950Z', Id=2f5e189e-87e0-409e-a4c4-72e1dfd51df5)
+2020-05-07T19:03:08.724 [Information] Documents modified 1
+2020-05-07T19:03:08.724 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877622533
+2020-05-07T19:03:08.741 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2f5e189e-87e0-409e-a4c4-72e1dfd51df5)
+2020-05-07T19:03:08.761 [Information] {"processtime": 37}
+2020-05-07T19:03:13.817 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:13.8055256Z', Id=7f1cf4ac-19fe-4c08-8368-0ce8163c745c)
+2020-05-07T19:03:13.818 [Information] Documents modified 2
+2020-05-07T19:03:13.818 [Information] First document Id s266-t1-254c556dc390-hub-1588877622586
+2020-05-07T19:03:13.847 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7f1cf4ac-19fe-4c08-8368-0ce8163c745c)
+2020-05-07T19:03:13.903 [Information] {"processtime": 85}
+2020-05-07T19:03:19.143 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:19.1269788Z', Id=f6632648-8d4b-4630-b8ef-a162fffb8fdf)
+2020-05-07T19:03:19.144 [Information] Documents modified 2
+2020-05-07T19:03:19.144 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877624557
+2020-05-07T19:03:19.163 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f6632648-8d4b-4630-b8ef-a162fffb8fdf)
+2020-05-07T19:03:19.345 [Information] {"processtime": 201}
+2020-05-07T19:03:24.249 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:24.2408589Z', Id=1ba84697-8b43-4c82-a650-04ddd482b22b)
+2020-05-07T19:03:24.249 [Information] Documents modified 1
+2020-05-07T19:03:24.249 [Information] First document Id s262-t1-85c1058358b3-hub-1588877626860
+2020-05-07T19:03:24.261 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1ba84697-8b43-4c82-a650-04ddd482b22b)
+2020-05-07T19:03:24.282 [Information] {"processtime": 32}
+2020-05-07T19:03:29.326 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:29.3088384Z', Id=b7550c2b-0596-4134-8f18-bc6fe4cbc2d9)
+2020-05-07T19:03:29.327 [Information] Documents modified 2
+2020-05-07T19:03:29.327 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877628669
+2020-05-07T19:03:29.356 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b7550c2b-0596-4134-8f18-bc6fe4cbc2d9)
+2020-05-07T19:03:29.478 [Information] {"processtime": 151}
+2020-05-07T19:03:34.457 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:34.4493059Z', Id=2b59a04e-5f15-4290-aa98-531453e83697)
+2020-05-07T19:03:34.458 [Information] Documents modified 1
+2020-05-07T19:03:34.458 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877630859
+2020-05-07T19:03:34.470 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2b59a04e-5f15-4290-aa98-531453e83697)
+2020-05-07T19:03:34.545 [Information] {"processtime": 87}
+2020-05-07T19:03:39.627 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:39.5381332Z', Id=07416bed-4244-4236-8f93-dbed32fc9703)
+2020-05-07T19:03:39.627 [Information] Documents modified 2
+2020-05-07T19:03:39.627 [Information] First document Id s263-t1-50fe05052f11-hub-1588877635198
+2020-05-07T19:03:39.646 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=07416bed-4244-4236-8f93-dbed32fc9703)
+2020-05-07T19:03:39.782 [Information] {"processtime": 155}
+2020-05-07T19:03:44.713 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:44.7045632Z', Id=bd9ad9de-9e5b-4525-8c70-a8ec7a4ca126)
+2020-05-07T19:03:44.713 [Information] Documents modified 1
+2020-05-07T19:03:44.713 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877639567
+2020-05-07T19:03:44.732 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=bd9ad9de-9e5b-4525-8c70-a8ec7a4ca126)
+2020-05-07T19:03:44.755 [Information] {"processtime": 42}
+2020-05-07T19:03:49.894 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:49.8775300Z', Id=26e2c876-15f9-44d5-b5c4-54510e1ca676)
+2020-05-07T19:03:49.894 [Information] Documents modified 2
+2020-05-07T19:03:49.894 [Information] First document Id s269-t1-badf92d4257a-hub-1588877640180
+2020-05-07T19:03:49.906 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=26e2c876-15f9-44d5-b5c4-54510e1ca676)
+2020-05-07T19:03:49.968 [Information] {"processtime": 74}
+2020-05-07T19:03:55.597 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:03:55.5258042Z', Id=2f369b5b-d8b6-4a13-a121-bf9428126d9c)
+2020-05-07T19:03:55.603 [Information] Documents modified 2
+2020-05-07T19:03:55.603 [Information] First document Id s262-t1-85c1058358b3-hub-1588877640894
+2020-05-07T19:03:55.614 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2f369b5b-d8b6-4a13-a121-bf9428126d9c)
+2020-05-07T19:03:55.694 [Information] {"processtime": 91}
+2020-05-07T19:04:00.778 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:00.7701402Z', Id=c0dcd69f-c194-4bc4-84f2-29f4f5c67a8c)
+2020-05-07T19:04:00.779 [Information] Documents modified 1
+2020-05-07T19:04:00.779 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877644526
+2020-05-07T19:04:00.790 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c0dcd69f-c194-4bc4-84f2-29f4f5c67a8c)
+2020-05-07T19:04:00.857 [Information] {"processtime": 78}
+2020-05-07T19:04:06.000 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:05.9889769Z', Id=6d3f940b-0102-4c9f-b2ec-9198760ea578)
+2020-05-07T19:04:06.001 [Information] Documents modified 2
+2020-05-07T19:04:06.001 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877644591
+2020-05-07T19:04:06.018 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6d3f940b-0102-4c9f-b2ec-9198760ea578)
+2020-05-07T19:04:06.061 [Information] {"processtime": 60}
+2020-05-07T19:04:11.250 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:11.2405910Z', Id=b2d42459-e4a6-4997-9dbd-88a06d03c94d)
+2020-05-07T19:04:11.250 [Information] Documents modified 1
+2020-05-07T19:04:11.250 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877648702
+2020-05-07T19:04:11.329 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b2d42459-e4a6-4997-9dbd-88a06d03c94d)
+2020-05-07T19:04:11.347 [Information] {"processtime": 97}
+2020-05-07T19:04:12.038 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:12.0298385Z', Id=6fea8e75-c573-4c11-90e1-5e64fc83cce2)
+2020-05-07T19:04:12.038 [Information] Documents modified 1
+2020-05-07T19:04:12.038 [Information] First document Id s269-t1-badf92d4257a-hub-1588877650213
+2020-05-07T19:04:12.050 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6fea8e75-c573-4c11-90e1-5e64fc83cce2)
+2020-05-07T19:04:12.150 [Information] {"processtime": 112}
+2020-05-07T19:04:17.155 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:17.1476149Z', Id=d7fdf436-85ea-49bb-88c3-d004911de59e)
+2020-05-07T19:04:17.163 [Information] Documents modified 1
+2020-05-07T19:04:17.163 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877652926
+2020-05-07T19:04:17.180 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d7fdf436-85ea-49bb-88c3-d004911de59e)
+2020-05-07T19:04:17.237 [Information] {"processtime": 74}
+2020-05-07T19:04:22.430 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:22.4123436Z', Id=e9187d11-9520-4e99-a587-8f65f395851d)
+2020-05-07T19:04:22.430 [Information] Documents modified 2
+2020-05-07T19:04:22.430 [Information] First document Id s262-t1-85c1058358b3-hub-1588877654931
+2020-05-07T19:04:22.448 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e9187d11-9520-4e99-a587-8f65f395851d)
+2020-05-07T19:04:22.577 [Information] {"processtime": 147}
+2020-05-07T19:04:27.694 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:27.6320409Z', Id=50918f3b-290a-431a-acc7-15a1f496e926)
+2020-05-07T19:04:27.700 [Information] Documents modified 1
+2020-05-07T19:04:27.700 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877655716
+2020-05-07T19:04:27.713 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=50918f3b-290a-431a-acc7-15a1f496e926)
+2020-05-07T19:04:27.747 [Information] {"processtime": 47}
+2020-05-07T19:04:28.406 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:28.4036964Z', Id=b44ef1d0-0dc7-499e-9fd0-2d1f44a73b61)
+2020-05-07T19:04:28.407 [Information] Documents modified 1
+2020-05-07T19:04:28.407 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877656601
+2020-05-07T19:04:28.424 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b44ef1d0-0dc7-499e-9fd0-2d1f44a73b61)
+2020-05-07T19:04:28.444 [Information] {"processtime": 37}
+2020-05-07T19:04:33.641 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:33.6338703Z', Id=f9ce52c8-9f7f-4c57-ba11-0a3eeba4d782)
+2020-05-07T19:04:33.642 [Information] Documents modified 1
+2020-05-07T19:04:33.642 [Information] First document Id s266-t1-254c556dc390-hub-1588877658653
+2020-05-07T19:04:33.671 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f9ce52c8-9f7f-4c57-ba11-0a3eeba4d782)
+2020-05-07T19:04:33.743 [Information] {"processtime": 100}
+2020-05-07T19:04:38.908 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:38.8923002Z', Id=0abdb80c-634c-428e-bcde-84b6ac7d1eb7)
+2020-05-07T19:04:38.909 [Information] Documents modified 2
+2020-05-07T19:04:38.909 [Information] First document Id s269-t1-badf92d4257a-hub-1588877660246
+2020-05-07T19:04:38.921 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=0abdb80c-634c-428e-bcde-84b6ac7d1eb7)
+2020-05-07T19:04:38.967 [Information] {"processtime": 58}
+2020-05-07T19:04:44.173 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:44.1653595Z', Id=71a0aa7a-a636-4d68-81c5-f829cc7c9722)
+2020-05-07T19:04:44.174 [Information] Documents modified 1
+2020-05-07T19:04:44.174 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877664560
+2020-05-07T19:04:44.185 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=71a0aa7a-a636-4d68-81c5-f829cc7c9722)
+2020-05-07T19:04:44.205 [Information] {"processtime": 31}
+2020-05-07T19:04:54.392 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:54.3742895Z', Id=bcb463a0-9ef0-40eb-831f-76bd9d0c2b18)
+2020-05-07T19:04:54.392 [Information] Documents modified 2
+2020-05-07T19:04:54.392 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877664625
+2020-05-07T19:04:54.409 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=bcb463a0-9ef0-40eb-831f-76bd9d0c2b18)
+2020-05-07T19:04:54.484 [Information] {"processtime": 92}
+2020-05-07T19:04:59.625 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:04:59.6152226Z', Id=833856d6-b7b7-4a69-a9e6-c0333d71c834)
+2020-05-07T19:04:59.625 [Information] Documents modified 1
+2020-05-07T19:04:59.626 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877668735
+2020-05-07T19:04:59.643 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=833856d6-b7b7-4a69-a9e6-c0333d71c834)
+2020-05-07T19:04:59.750 [Information] {"processtime": 124}
+2020-05-07T19:05:05.402 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:05.3899930Z', Id=92e22ca8-f062-4ac0-853b-51fe226c323a)
+2020-05-07T19:05:05.402 [Information] Documents modified 2
+2020-05-07T19:05:05.402 [Information] First document Id s262-t1-85c1058358b3-hub-1588877668964
+2020-05-07T19:05:05.472 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=92e22ca8-f062-4ac0-853b-51fe226c323a)
+2020-05-07T19:05:05.571 [Information] {"processtime": 169}
+2020-05-07T19:05:10.642 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:10.6343148Z', Id=6b2b9ba9-6c75-41b2-bdae-8cd6cd7a7522)
+2020-05-07T19:05:10.643 [Information] Documents modified 1
+2020-05-07T19:05:10.643 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877673639
+2020-05-07T19:05:10.654 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6b2b9ba9-6c75-41b2-bdae-8cd6cd7a7522)
+2020-05-07T19:05:10.678 [Information] {"processtime": 35}
+2020-05-07T19:05:16.443 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:16.4247136Z', Id=f6267070-6445-4ddb-8ec5-66cbeb85d6f9)
+2020-05-07T19:05:16.444 [Information] Documents modified 2
+2020-05-07T19:05:16.444 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877674750
+2020-05-07T19:05:16.463 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f6267070-6445-4ddb-8ec5-66cbeb85d6f9)
+2020-05-07T19:05:16.564 [Information] {"processtime": 120}
+2020-05-07T19:05:21.667 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:21.6650028Z', Id=95fc2dbd-b263-4405-a0d8-b1cb01a1ac20)
+2020-05-07T19:05:21.668 [Information] Documents modified 1
+2020-05-07T19:05:21.668 [Information] First document Id s263-t1-50fe05052f11-hub-1588877675341
+2020-05-07T19:05:21.736 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=95fc2dbd-b263-4405-a0d8-b1cb01a1ac20)
+2020-05-07T19:05:21.837 [Information] {"processtime": 169}
+2020-05-07T19:05:26.971 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:26.9543739Z', Id=d0a7d834-e8f1-4172-9639-af9403473e74)
+2020-05-07T19:05:26.971 [Information] Documents modified 2
+2020-05-07T19:05:26.971 [Information] First document Id s266-t1-254c556dc390-hub-1588877676688
+2020-05-07T19:05:26.983 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d0a7d834-e8f1-4172-9639-af9403473e74)
+2020-05-07T19:05:27.068 [Information] {"processtime": 97}
+2020-05-07T19:05:32.572 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:32.5549725Z', Id=b3e85997-1732-4e64-a25e-1c2f3fac1075)
+2020-05-07T19:05:32.572 [Information] Documents modified 2
+2020-05-07T19:05:32.572 [Information] First document Id s262-t1-85c1058358b3-hub-1588877682998
+2020-05-07T19:05:32.584 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b3e85997-1732-4e64-a25e-1c2f3fac1075)
+2020-05-07T19:05:32.632 [Information] {"processtime": 60}
+2020-05-07T19:05:37.815 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:37.8063512Z', Id=ffd181fa-8813-4c63-a561-9fcdb054eed4)
+2020-05-07T19:05:37.815 [Information] Documents modified 1
+2020-05-07T19:05:37.815 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877684659
+2020-05-07T19:05:37.837 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ffd181fa-8813-4c63-a561-9fcdb054eed4)
+2020-05-07T19:05:37.937 [Information] {"processtime": 122}
+2020-05-07T19:05:43.386 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:43.3749147Z', Id=a63c86df-ff0e-4454-8dca-f3ae316c37f4)
+2020-05-07T19:05:43.386 [Information] Documents modified 2
+2020-05-07T19:05:43.386 [Information] First document Id s263-t1-50fe05052f11-hub-1588877685375
+2020-05-07T19:05:43.406 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a63c86df-ff0e-4454-8dca-f3ae316c37f4)
+2020-05-07T19:05:43.462 [Information] {"processtime": 75}
+2020-05-07T19:05:48.635 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:48.6269698Z', Id=95910dc9-5f7d-4f8e-94a5-7c4f88d2239a)
+2020-05-07T19:05:48.636 [Information] Documents modified 1
+2020-05-07T19:05:48.636 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877688767
+2020-05-07T19:05:48.647 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=95910dc9-5f7d-4f8e-94a5-7c4f88d2239a)
+2020-05-07T19:05:48.667 [Information] {"processtime": 31}
+2020-05-07T19:05:53.872 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:53.8637247Z', Id=424bd1d6-c9e9-485a-adbd-2b4369e2054d)
+2020-05-07T19:05:53.872 [Information] Documents modified 1
+2020-05-07T19:05:53.872 [Information] First document Id s269-t1-badf92d4257a-hub-1588877690351
+2020-05-07T19:05:53.884 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=424bd1d6-c9e9-485a-adbd-2b4369e2054d)
+2020-05-07T19:05:53.950 [Information] {"processtime": 77}
+2020-05-07T19:05:58.975 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:05:58.9635709Z', Id=45d05027-e3c7-40e9-8b47-b336371096ea)
+2020-05-07T19:05:58.975 [Information] Documents modified 2
+2020-05-07T19:05:58.975 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877690672
+2020-05-07T19:05:58.993 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=45d05027-e3c7-40e9-8b47-b336371096ea)
+2020-05-07T19:05:59.040 [Information] {"processtime": 65}
+2020-05-07T19:06:04.058 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:04.0492349Z', Id=836f1ed3-913e-44b1-ad3b-8beb22ec6ff6)
+2020-05-07T19:06:04.058 [Information] Documents modified 1
+2020-05-07T19:06:04.058 [Information] First document Id s266-t1-254c556dc390-hub-1588877694721
+2020-05-07T19:06:04.071 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=836f1ed3-913e-44b1-ad3b-8beb22ec6ff6)
+2020-05-07T19:06:04.091 [Information] {"processtime": 33}
+2020-05-07T19:06:09.234 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:09.2256823Z', Id=d1702646-de9b-4ef9-a669-3bfaaacf0918)
+2020-05-07T19:06:09.234 [Information] Documents modified 1
+2020-05-07T19:06:09.234 [Information] First document Id s263-t1-50fe05052f11-hub-1588877695408
+2020-05-07T19:06:09.247 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d1702646-de9b-4ef9-a669-3bfaaacf0918)
+2020-05-07T19:06:09.342 [Information] {"processtime": 108}
+2020-05-07T19:06:14.332 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:14.3199082Z', Id=24c616c8-f64b-4076-acfd-64ecc9c059e6)
+2020-05-07T19:06:14.333 [Information] Documents modified 2
+2020-05-07T19:06:14.333 [Information] First document Id s262-t1-85c1058358b3-hub-1588877697032
+2020-05-07T19:06:14.371 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=24c616c8-f64b-4076-acfd-64ecc9c059e6)
+2020-05-07T19:06:14.417 [Information] {"processtime": 84}
+2020-05-07T19:06:24.449 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:24.4404692Z', Id=3f105371-fbfc-48d8-ab04-5bd5ab8cd489)
+2020-05-07T19:06:24.449 [Information] Documents modified 1
+2020-05-07T19:06:24.449 [Information] First document Id s269-t1-badf92d4257a-hub-1588877700384
+2020-05-07T19:06:24.461 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3f105371-fbfc-48d8-ab04-5bd5ab8cd489)
+2020-05-07T19:06:24.481 [Information] {"processtime": 32}
+2020-05-07T19:06:34.568 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:34.5593850Z', Id=307624b3-a77e-4dc9-a1fc-2c40ba7a5213)
+2020-05-07T19:06:34.630 [Information] Documents modified 1
+2020-05-07T19:06:34.630 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877704628
+2020-05-07T19:06:34.648 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=307624b3-a77e-4dc9-a1fc-2c40ba7a5213)
+2020-05-07T19:06:34.757 [Information] {"processtime": 127}
+2020-05-07T19:06:49.770 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:49.7604749Z', Id=9eaf723e-b476-44e9-afff-a226159ae08f)
+2020-05-07T19:06:49.770 [Information] Documents modified 1
+2020-05-07T19:06:49.770 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877704693
+2020-05-07T19:06:49.788 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=9eaf723e-b476-44e9-afff-a226159ae08f)
+2020-05-07T19:06:49.837 [Information] {"processtime": 67}
+2020-05-07T19:06:54.890 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:06:54.8810949Z', Id=991ee514-5294-47f3-ad7c-a494f59d380b)
+2020-05-07T19:06:54.890 [Information] Documents modified 1
+2020-05-07T19:06:54.890 [Information] First document Id s263-t1-50fe05052f11-hub-1588877705440
+2020-05-07T19:06:54.920 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=991ee514-5294-47f3-ad7c-a494f59d380b)
+2020-05-07T19:06:54.940 [Information] {"processtime": 50}
+2020-05-07T19:07:05.022 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:05.0137004Z', Id=ee2fafe6-4229-48eb-b2e8-f89e7cd4ded5)
+2020-05-07T19:07:05.023 [Information] Documents modified 1
+2020-05-07T19:07:05.023 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877707706
+2020-05-07T19:07:05.042 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ee2fafe6-4229-48eb-b2e8-f89e7cd4ded5)
+2020-05-07T19:07:05.066 [Information] {"processtime": 43}
+2020-05-07T19:07:10.104 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:10.0951401Z', Id=e920770d-7e13-4bd9-a99c-1115609e2dbf)
+2020-05-07T19:07:10.104 [Information] Documents modified 1
+2020-05-07T19:07:10.104 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877708103
+2020-05-07T19:07:10.182 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e920770d-7e13-4bd9-a99c-1115609e2dbf)
+2020-05-07T19:07:10.203 [Information] {"processtime": 99}
+2020-05-07T19:07:15.349 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:15.3321320Z', Id=ca8af641-9918-4c7a-96a9-5aeb5933e16e)
+2020-05-07T19:07:15.349 [Information] Documents modified 2
+2020-05-07T19:07:15.349 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877708801
+2020-05-07T19:07:15.361 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=ca8af641-9918-4c7a-96a9-5aeb5933e16e)
+2020-05-07T19:07:15.409 [Information] {"processtime": 60}
+2020-05-07T19:07:20.441 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:20.4332626Z', Id=1fbb5183-6533-4a4b-981f-81a1863f90fd)
+2020-05-07T19:07:20.442 [Information] Documents modified 1
+2020-05-07T19:07:20.442 [Information] First document Id s262-t1-85c1058358b3-hub-1588877711066
+2020-05-07T19:07:20.453 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1fbb5183-6533-4a4b-981f-81a1863f90fd)
+2020-05-07T19:07:20.473 [Information] {"processtime": 31}
+2020-05-07T19:07:25.527 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:25.5176691Z', Id=9aa4cd86-031f-4910-a530-79647b54e76d)
+2020-05-07T19:07:25.527 [Information] Documents modified 1
+2020-05-07T19:07:25.527 [Information] First document Id s266-t1-254c556dc390-hub-1588877712754
+2020-05-07T19:07:25.538 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=9aa4cd86-031f-4910-a530-79647b54e76d)
+2020-05-07T19:07:25.638 [Information] {"processtime": 110}
+2020-05-07T19:07:30.685 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:30.6171058Z', Id=d3f40997-5092-4fdd-8558-2d309e03c517)
+2020-05-07T19:07:30.685 [Information] Documents modified 2
+2020-05-07T19:07:30.685 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877712819
+2020-05-07T19:07:30.703 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=d3f40997-5092-4fdd-8558-2d309e03c517)
+2020-05-07T19:07:30.774 [Information] {"processtime": 88}
+2020-05-07T19:07:35.820 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:35.8118179Z', Id=41d2ab23-51d7-459b-9174-2c009015933d)
+2020-05-07T19:07:35.820 [Information] Documents modified 1
+2020-05-07T19:07:35.820 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877719139
+2020-05-07T19:07:35.839 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=41d2ab23-51d7-459b-9174-2c009015933d)
+2020-05-07T19:07:35.947 [Information] {"processtime": 127}
+2020-05-07T19:07:40.929 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:40.9132708Z', Id=6104b162-bb26-4c40-8343-e56ae7bfb06d)
+2020-05-07T19:07:40.929 [Information] Documents modified 2
+2020-05-07T19:07:40.929 [Information] First document Id s269-t1-badf92d4257a-hub-1588877720449
+2020-05-07T19:07:40.948 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=6104b162-bb26-4c40-8343-e56ae7bfb06d)
+2020-05-07T19:07:40.996 [Information] {"processtime": 67}
+2020-05-07T19:07:46.038 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:46.0239515Z', Id=c03110c9-97d9-4070-accf-06a589785a28)
+2020-05-07T19:07:46.043 [Information] Documents modified 1
+2020-05-07T19:07:46.043 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877724728
+2020-05-07T19:07:46.062 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c03110c9-97d9-4070-accf-06a589785a28)
+2020-05-07T19:07:46.160 [Information] {"processtime": 116}
+2020-05-07T19:07:51.207 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:07:51.1910176Z', Id=24d6bf04-91b2-46ba-a8e3-6a2370635c41)
+2020-05-07T19:07:51.207 [Information] Documents modified 2
+2020-05-07T19:07:51.207 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877724740
+2020-05-07T19:07:51.219 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=24d6bf04-91b2-46ba-a8e3-6a2370635c41)
+2020-05-07T19:07:51.275 [Information] {"processtime": 68}
+2020-05-07T19:08:01.324 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:01.3128850Z', Id=c016ab97-1312-463f-9498-30855cf7c83c)
+2020-05-07T19:08:01.325 [Information] Documents modified 2
+2020-05-07T19:08:01.325 [Information] First document Id s263-t1-50fe05052f11-hub-1588877725508
+2020-05-07T19:08:01.343 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c016ab97-1312-463f-9498-30855cf7c83c)
+2020-05-07T19:08:01.383 [Information] {"processtime": 58}
+2020-05-07T19:08:06.453 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:06.4334176Z', Id=2c6c72fd-0145-46ab-bb10-572c2ddbff1f)
+2020-05-07T19:08:06.454 [Information] Documents modified 1
+2020-05-07T19:08:06.454 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877730172
+2020-05-07T19:08:06.472 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2c6c72fd-0145-46ab-bb10-572c2ddbff1f)
+2020-05-07T19:08:06.492 [Information] {"processtime": 38}
+2020-05-07T19:08:16.982 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:16.9735307Z', Id=a68e38b7-abfa-4a7b-b855-aff4550db381)
+2020-05-07T19:08:16.982 [Information] Documents modified 1
+2020-05-07T19:08:16.983 [Information] First document Id s269-t1-badf92d4257a-hub-1588877730482
+2020-05-07T19:08:16.994 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=a68e38b7-abfa-4a7b-b855-aff4550db381)
+2020-05-07T19:08:17.047 [Information] {"processtime": 64}
+2020-05-07T19:08:22.075 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:22.0655554Z', Id=e1889a1a-dc01-4add-aada-d9f2332efd76)
+2020-05-07T19:08:22.075 [Information] Documents modified 1
+2020-05-07T19:08:22.075 [Information] First document Id s266-t1-254c556dc390-hub-1588877730787
+2020-05-07T19:08:22.155 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=e1889a1a-dc01-4add-aada-d9f2332efd76)
+2020-05-07T19:08:22.176 [Information] {"processtime": 101}
+2020-05-07T19:08:27.283 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:27.2660452Z', Id=df0d6137-10ec-493a-8302-93829748e8e7)
+2020-05-07T19:08:27.283 [Information] Documents modified 2
+2020-05-07T19:08:27.284 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877731853
+2020-05-07T19:08:27.302 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=df0d6137-10ec-493a-8302-93829748e8e7)
+2020-05-07T19:08:27.351 [Information] {"processtime": 67}
+2020-05-07T19:08:32.378 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:32.3691215Z', Id=2f568316-5b93-4cb3-a063-50e8831ec171)
+2020-05-07T19:08:32.378 [Information] Documents modified 1
+2020-05-07T19:08:32.378 [Information] First document Id s262-t1-85c1058358b3-hub-1588877739133
+2020-05-07T19:08:32.390 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=2f568316-5b93-4cb3-a063-50e8831ec171)
+2020-05-07T19:08:32.410 [Information] {"processtime": 31}
+2020-05-07T19:08:37.471 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:37.4547765Z', Id=575499e9-bcc1-451c-9717-c612b4850aac)
+2020-05-07T19:08:37.472 [Information] Documents modified 2
+2020-05-07T19:08:37.472 [Information] First document Id s269-t1-badf92d4257a-hub-1588877740514
+2020-05-07T19:08:37.491 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=575499e9-bcc1-451c-9717-c612b4850aac)
+2020-05-07T19:08:37.563 [Information] {"processtime": 91}
+2020-05-07T19:08:42.590 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:42.5797655Z', Id=8bfdbda0-3b77-4f37-8a3b-818a6bfbb070)
+2020-05-07T19:08:42.590 [Information] Documents modified 1
+2020-05-07T19:08:42.590 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877741775
+2020-05-07T19:08:42.609 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=8bfdbda0-3b77-4f37-8a3b-818a6bfbb070)
+2020-05-07T19:08:42.661 [Information] {"processtime": 71}
+2020-05-07T19:08:47.673 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:47.6646286Z', Id=3933a616-1b2b-46ad-955a-615ec97656a9)
+2020-05-07T19:08:47.673 [Information] Documents modified 1
+2020-05-07T19:08:47.673 [Information] First document Id s267-t1-6952a78f6c84-hub-1588877744699
+2020-05-07T19:08:47.753 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3933a616-1b2b-46ad-955a-615ec97656a9)
+2020-05-07T19:08:47.850 [Information] {"processtime": 177}
+2020-05-07T19:08:52.816 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:52.8136353Z', Id=4d4c86f1-c2cf-4846-a74d-1b6febe41dc1)
+2020-05-07T19:08:52.817 [Information] Documents modified 1
+2020-05-07T19:08:52.817 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877744762
+2020-05-07T19:08:52.834 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=4d4c86f1-c2cf-4846-a74d-1b6febe41dc1)
+2020-05-07T19:08:52.858 [Information] {"processtime": 41}
+2020-05-07T19:08:57.934 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:08:57.9263913Z', Id=f57b2868-7ef7-434b-bc48-62d40f8ea63a)
+2020-05-07T19:08:57.935 [Information] Documents modified 1
+2020-05-07T19:08:57.935 [Information] First document Id s263-t1-50fe05052f11-hub-1588877745575
+2020-05-07T19:08:57.947 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=f57b2868-7ef7-434b-bc48-62d40f8ea63a)
+2020-05-07T19:08:57.966 [Information] {"processtime": 31}
+2020-05-07T19:09:03.450 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:03.4333066Z', Id=efd8f556-7272-4508-b0bf-587b0a145699)
+2020-05-07T19:09:03.450 [Information] Documents modified 2
+2020-05-07T19:09:03.450 [Information] First document Id s266-t1-254c556dc390-hub-1588877748828
+2020-05-07T19:09:03.462 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=efd8f556-7272-4508-b0bf-587b0a145699)
+2020-05-07T19:09:03.572 [Information] {"processtime": 122}
+2020-05-07T19:09:08.536 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:08.5273223Z', Id=3615f774-64f9-4678-a1f9-3eb36de32da4)
+2020-05-07T19:09:08.537 [Information] Documents modified 1
+2020-05-07T19:09:08.537 [Information] First document Id s269-t1-badf92d4257a-hub-1588877750547
+2020-05-07T19:09:08.558 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=3615f774-64f9-4678-a1f9-3eb36de32da4)
+2020-05-07T19:09:08.658 [Information] {"processtime": 120}
+2020-05-07T19:09:13.634 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:13.6215283Z', Id=df4bb88b-aea6-462e-98f3-f067a3878127)
+2020-05-07T19:09:13.635 [Information] Documents modified 2
+2020-05-07T19:09:13.635 [Information] First document Id s265-t1-460cf8e230b1-hub-1588877750887
+2020-05-07T19:09:13.651 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=df4bb88b-aea6-462e-98f3-f067a3878127)
+2020-05-07T19:09:13.710 [Information] {"processtime": 75}
+2020-05-07T19:09:18.754 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:18.7461662Z', Id=947c754d-32b2-41c2-9fe6-85f7210be734)
+2020-05-07T19:09:18.755 [Information] Documents modified 1
+2020-05-07T19:09:18.755 [Information] First document Id s262-t1-85c1058358b3-hub-1588877753172
+2020-05-07T19:09:18.767 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=947c754d-32b2-41c2-9fe6-85f7210be734)
+2020-05-07T19:09:18.854 [Information] {"processtime": 99}
+2020-05-07T19:09:23.857 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:23.8404562Z', Id=7abdecff-8831-4123-aa50-5d3f1fecbd6c)
+2020-05-07T19:09:23.858 [Information] Documents modified 2
+2020-05-07T19:09:23.858 [Information] First document Id s263-t1-50fe05052f11-hub-1588877755608
+2020-05-07T19:09:23.869 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=7abdecff-8831-4123-aa50-5d3f1fecbd6c)
+2020-05-07T19:09:23.972 [Information] {"processtime": 114}
+2020-05-07T19:09:28.952 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:28.9442336Z', Id=47336225-6bd6-4286-8ff2-77a23e3a2227)
+2020-05-07T19:09:28.953 [Information] Documents modified 1
+2020-05-07T19:09:28.953 [Information] First document Id s269-t1-badf92d4257a-hub-1588877760579
+2020-05-07T19:09:28.965 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=47336225-6bd6-4286-8ff2-77a23e3a2227)
+2020-05-07T19:09:29.060 [Information] {"processtime": 107}
+2020-05-07T19:09:34.130 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:34.0530903Z', Id=b809e3b6-3c80-4060-8999-3226030a0b0f)
+2020-05-07T19:09:34.130 [Information] Documents modified 2
+2020-05-07T19:09:34.130 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877763285
+2020-05-07T19:09:34.148 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=b809e3b6-3c80-4060-8999-3226030a0b0f)
+2020-05-07T19:09:34.193 [Information] {"processtime": 63}
+2020-05-07T19:09:39.207 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:39.1984225Z', Id=c5d37a19-ff19-4a05-bd24-4674fdb0bbc4)
+2020-05-07T19:09:39.207 [Information] Documents modified 1
+2020-05-07T19:09:39.207 [Information] First document Id s264-t1-83a2c7aa857a-hub-1588877764797
+2020-05-07T19:09:39.218 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c5d37a19-ff19-4a05-bd24-4674fdb0bbc4)
+2020-05-07T19:09:39.238 [Information] {"processtime": 31}
+2020-05-07T19:09:44.309 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:44.2896553Z', Id=823aa6a1-0eb7-40cf-b089-e0bac546962d)
+2020-05-07T19:09:44.309 [Information] Documents modified 1
+2020-05-07T19:09:44.309 [Information] First document Id s263-t1-50fe05052f11-hub-1588877765640
+2020-05-07T19:09:44.327 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=823aa6a1-0eb7-40cf-b089-e0bac546962d)
+2020-05-07T19:09:44.349 [Information] {"processtime": 40}
+2020-05-07T19:09:59.434 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:09:59.4255652Z', Id=54844348-0601-404a-a49f-12411ae5abc5)
+2020-05-07T19:09:59.434 [Information] Documents modified 1
+2020-05-07T19:09:59.434 [Information] First document Id s266-t1-254c556dc390-hub-1588877766862
+2020-05-07T19:09:59.446 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=54844348-0601-404a-a49f-12411ae5abc5)
+2020-05-07T19:09:59.468 [Information] {"processtime": 34}
+2020-05-07T19:10:04.524 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:10:04.5147433Z', Id=c4774b0e-a38c-48d8-be2a-10cae408b348)
+2020-05-07T19:10:04.524 [Information] Documents modified 1
+2020-05-07T19:10:04.524 [Information] First document Id s262-t1-85c1058358b3-hub-1588877767205
+2020-05-07T19:10:04.593 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c4774b0e-a38c-48d8-be2a-10cae408b348)
+2020-05-07T19:10:04.615 [Information] {"processtime": 91}
+2020-05-07T19:10:09.696 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:10:09.6791479Z', Id=1265b287-2b01-46fe-981f-3cb0fd37186d)
+2020-05-07T19:10:09.696 [Information] Documents modified 2
+2020-05-07T19:10:09.696 [Information] First document Id s261-t1-c9c5481c2ee9-hub-1588877768909
+2020-05-07T19:10:09.707 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=1265b287-2b01-46fe-981f-3cb0fd37186d)
+2020-05-07T19:10:09.754 [Information] {"processtime": 58}
+2020-05-07T19:10:14.774 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:10:14.7654987Z', Id=27d543aa-01b8-4be5-a628-6e0f956aa131)
+2020-05-07T19:10:14.774 [Information] Documents modified 1
+2020-05-07T19:10:14.774 [Information] First document Id s269-t1-badf92d4257a-hub-1588877770611
+2020-05-07T19:10:14.786 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=27d543aa-01b8-4be5-a628-6e0f956aa131)
+2020-05-07T19:10:14.807 [Information] {"processtime": 33}
+2020-05-07T19:10:19.871 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:10:19.8545320Z', Id=c6d72bdb-76d1-4774-aa7b-9d6796fd114e)
+2020-05-07T19:10:19.871 [Information] Documents modified 2
+2020-05-07T19:10:19.872 [Information] First document Id s270-t1-cbfc50e018e1-hub-1588877774320
+2020-05-07T19:10:19.894 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=c6d72bdb-76d1-4774-aa7b-9d6796fd114e)
+2020-05-07T19:10:19.946 [Information] {"processtime": 74}
+2020-05-07T19:10:24.987 [Information] Executing 'Functions.ebgmakk-fetchdata' (Reason='New changes on collection c2 at 2020-05-07T19:10:24.9782808Z', Id=129e8e06-0756-4db5-9818-3ec92cd5c5e7)
+2020-05-07T19:10:24.987 [Information] Documents modified 1
+2020-05-07T19:10:24.988 [Information] First document Id s268-t1-fc7aa0cf7f12-hub-1588877775844
+2020-05-07T19:10:25.000 [Information] Executed 'Functions.ebgmakk-fetchdata' (Succeeded, Id=129e8e06-0756-4db5-9818-3ec92cd5c5e7)
+2020-05-07T19:10:25.023 [Information] {"processtime": 35}

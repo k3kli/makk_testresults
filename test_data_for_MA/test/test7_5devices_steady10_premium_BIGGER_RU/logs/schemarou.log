@@ -1,0 +1,1009 @@
+2020-05-10T09:08:23.333 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:08:32.951 [Information] Item has been forwarded to rpm
+2020-05-10T09:08:32.953 [Information] {"processtime": 12859}
+2020-05-10T09:08:32.975 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=7f993f85-6d7e-461e-9cac-205598021530)
+2020-05-10T09:08:33.127 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=8c18f6ef-ccdb-4561-87a9-11b14975a906)
+2020-05-10T09:08:33.127 [Information] Trigger Details: PartionId: 0, Offset: 55838582472-55838837088, EnqueueTimeUtc: 2020-05-10T09:08:19.3260000Z-2020-05-10T09:08:30.5640000Z, SequenceNumber: 13829-13837, Count: 9
+2020-05-10T09:08:33.405 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:08:41.586 [Information] Item has been forwarded to rpm
+2020-05-10T09:08:41.586 [Information] {"processtime": 8452}
+2020-05-10T09:08:41.637 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:08:47.706 [Information] Item has been forwarded to rpm
+2020-05-10T09:08:47.707 [Information] {"processtime": 6121}
+2020-05-10T09:08:47.810 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:08:53.855 [Information] Item has been forwarded to rpm
+2020-05-10T09:08:53.856 [Information] {"processtime": 6149}
+2020-05-10T09:08:53.938 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:00.159 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:00.159 [Information] {"processtime": 6303}
+2020-05-10T09:09:00.187 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:06.375 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:06.375 [Information] {"processtime": 6216}
+2020-05-10T09:09:06.403 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:12.388 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:12.389 [Information] {"processtime": 6014}
+2020-05-10T09:09:12.422 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:18.383 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:18.384 [Information] {"processtime": 5995}
+2020-05-10T09:09:18.413 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:29.894 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:29.894 [Information] {"processtime": 11510}
+2020-05-10T09:09:29.923 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:41.266 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:41.267 [Information] {"processtime": 11373}
+2020-05-10T09:09:41.268 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=8c18f6ef-ccdb-4561-87a9-11b14975a906)
+2020-05-10T09:09:41.303 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=4e3d3a44-d664-443f-8c6a-866eb090c17f)
+2020-05-10T09:09:41.304 [Information] Trigger Details: PartionId: 0, Offset: 55838868928-55839155024, EnqueueTimeUtc: 2020-05-10T09:08:38.6910000Z-2020-05-10T09:08:50.7090000Z, SequenceNumber: 13838-13847, Count: 10
+2020-05-10T09:09:41.598 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:48.255 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:48.256 [Information] {"processtime": 6950}
+2020-05-10T09:09:48.341 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:51.724 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:51.724 [Information] {"processtime": 3468}
+2020-05-10T09:09:51.806 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:55.172 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:55.172 [Information] {"processtime": 3447}
+2020-05-10T09:09:55.202 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:09:58.372 [Information] Item has been forwarded to rpm
+2020-05-10T09:09:58.373 [Information] {"processtime": 3200}
+2020-05-10T09:09:58.401 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:01.449 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:01.449 [Information] {"processtime": 3076}
+2020-05-10T09:10:01.477 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:04.526 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:04.526 [Information] {"processtime": 3076}
+2020-05-10T09:10:04.563 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:07.879 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:07.880 [Information] {"processtime": 3353}
+2020-05-10T09:10:07.911 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:10.994 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:10.995 [Information] {"processtime": 3115}
+2020-05-10T09:10:11.112 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:14.149 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:14.149 [Information] {"processtime": 3154}
+2020-05-10T09:10:14.177 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:17.263 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:17.263 [Information] {"processtime": 3114}
+2020-05-10T09:10:17.263 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=4e3d3a44-d664-443f-8c6a-866eb090c17f)
+2020-05-10T09:10:17.293 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=2a6faf22-6926-455b-bbf0-bcc69588cd0b)
+2020-05-10T09:10:17.293 [Information] Trigger Details: PartionId: 0, Offset: 55839186848-55839473232, EnqueueTimeUtc: 2020-05-10T09:08:58.6480000Z-2020-05-10T09:09:10.7290000Z, SequenceNumber: 13848-13857, Count: 10
+2020-05-10T09:10:17.526 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:20.764 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:20.765 [Information] {"processtime": 3470}
+2020-05-10T09:10:20.847 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:23.987 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:23.987 [Information] {"processtime": 3222}
+2020-05-10T09:10:24.104 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:27.235 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:27.236 [Information] {"processtime": 3248}
+2020-05-10T09:10:27.264 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:30.383 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:30.384 [Information] {"processtime": 3148}
+2020-05-10T09:10:30.411 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:33.440 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:33.441 [Information] {"processtime": 3057}
+2020-05-10T09:10:33.521 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:36.660 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:36.660 [Information] {"processtime": 3219}
+2020-05-10T09:10:36.689 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:39.733 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:39.733 [Information] {"processtime": 3073}
+2020-05-10T09:10:39.760 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:42.798 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:42.798 [Information] {"processtime": 3065}
+2020-05-10T09:10:42.829 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:45.945 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:45.946 [Information] {"processtime": 3147}
+2020-05-10T09:10:45.973 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:49.147 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:49.148 [Information] {"processtime": 3202}
+2020-05-10T09:10:49.148 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=2a6faf22-6926-455b-bbf0-bcc69588cd0b)
+2020-05-10T09:10:49.198 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=bc17ef52-ff29-4f1a-97fe-11acaae41961)
+2020-05-10T09:10:49.198 [Information] Trigger Details: PartionId: 0, Offset: 55839505008-55839791224, EnqueueTimeUtc: 2020-05-10T09:09:18.8550000Z-2020-05-10T09:09:30.7510000Z, SequenceNumber: 13858-13867, Count: 10
+2020-05-10T09:10:49.469 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:52.733 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:52.733 [Information] {"processtime": 3533}
+2020-05-10T09:10:52.814 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:55.877 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:55.878 [Information] {"processtime": 3145}
+2020-05-10T09:10:55.907 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:10:58.962 [Information] Item has been forwarded to rpm
+2020-05-10T09:10:58.962 [Information] {"processtime": 3084}
+2020-05-10T09:10:59.062 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:02.184 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:02.184 [Information] {"processtime": 3222}
+2020-05-10T09:11:02.213 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:05.212 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:05.212 [Information] {"processtime": 3028}
+2020-05-10T09:11:05.240 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:08.364 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:08.365 [Information] {"processtime": 3153}
+2020-05-10T09:11:08.393 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:11.577 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:11.578 [Information] {"processtime": 3213}
+2020-05-10T09:11:11.606 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:14.964 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:14.965 [Information] {"processtime": 3387}
+2020-05-10T09:11:15.083 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:18.201 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:18.201 [Information] {"processtime": 3236}
+2020-05-10T09:11:18.229 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:21.538 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:21.538 [Information] {"processtime": 3336}
+2020-05-10T09:11:21.538 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=bc17ef52-ff29-4f1a-97fe-11acaae41961)
+2020-05-10T09:11:21.567 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=efce0b70-8039-4672-9aa9-9f4ef4adab04)
+2020-05-10T09:11:21.567 [Information] Trigger Details: PartionId: 0, Offset: 55839822984-55840109024, EnqueueTimeUtc: 2020-05-10T09:09:38.8780000Z-2020-05-10T09:09:50.7380000Z, SequenceNumber: 13868-13877, Count: 10
+2020-05-10T09:11:21.875 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:24.970 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:24.970 [Information] {"processtime": 3401}
+2020-05-10T09:11:25.053 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:28.153 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:28.153 [Information] {"processtime": 3183}
+2020-05-10T09:11:28.180 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:31.511 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:31.511 [Information] {"processtime": 3358}
+2020-05-10T09:11:31.544 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:34.567 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:34.567 [Information] {"processtime": 3052}
+2020-05-10T09:11:34.692 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:37.762 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:37.762 [Information] {"processtime": 3194}
+2020-05-10T09:11:37.798 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:40.992 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:40.992 [Information] {"processtime": 3230}
+2020-05-10T09:11:41.020 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:44.062 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:44.063 [Information] {"processtime": 3071}
+2020-05-10T09:11:44.090 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:47.232 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:47.233 [Information] {"processtime": 3170}
+2020-05-10T09:11:47.261 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:50.333 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:50.333 [Information] {"processtime": 3100}
+2020-05-10T09:11:50.362 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:53.461 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:53.462 [Information] {"processtime": 3128}
+2020-05-10T09:11:53.462 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=efce0b70-8039-4672-9aa9-9f4ef4adab04)
+2020-05-10T09:11:53.499 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=5134b129-833c-4491-ba6f-18e12403965c)
+2020-05-10T09:11:53.500 [Information] Trigger Details: PartionId: 0, Offset: 55840140832-55840427160, EnqueueTimeUtc: 2020-05-10T09:09:58.8960000Z-2020-05-10T09:10:10.8200000Z, SequenceNumber: 13878-13887, Count: 10
+2020-05-10T09:11:53.745 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:11:57.031 [Information] Item has been forwarded to rpm
+2020-05-10T09:11:57.032 [Information] {"processtime": 3531}
+2020-05-10T09:11:57.111 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:00.073 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:00.074 [Information] {"processtime": 3042}
+2020-05-10T09:12:00.155 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:03.245 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:03.246 [Information] {"processtime": 3172}
+2020-05-10T09:12:03.273 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:06.500 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:06.500 [Information] {"processtime": 3254}
+2020-05-10T09:12:06.529 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:09.693 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:09.693 [Information] {"processtime": 3192}
+2020-05-10T09:12:09.721 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:12.809 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:12.810 [Information] {"processtime": 3117}
+2020-05-10T09:12:12.841 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:16.078 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:16.078 [Information] {"processtime": 3268}
+2020-05-10T09:12:16.179 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:19.260 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:19.260 [Information] {"processtime": 3181}
+2020-05-10T09:12:19.288 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:22.341 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:22.342 [Information] {"processtime": 3082}
+2020-05-10T09:12:22.372 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:25.388 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:25.388 [Information] {"processtime": 3046}
+2020-05-10T09:12:25.389 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=5134b129-833c-4491-ba6f-18e12403965c)
+2020-05-10T09:12:25.436 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=03abbb49-f75e-426b-8da4-9073570f815e)
+2020-05-10T09:12:25.436 [Information] Trigger Details: PartionId: 0, Offset: 55840458944-55840745288, EnqueueTimeUtc: 2020-05-10T09:10:19.0260000Z-2020-05-10T09:10:30.9190000Z, SequenceNumber: 13888-13897, Count: 10
+2020-05-10T09:12:25.675 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:28.757 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:28.757 [Information] {"processtime": 3319}
+2020-05-10T09:12:28.786 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:32.044 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:32.044 [Information] {"processtime": 3287}
+2020-05-10T09:12:32.146 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:35.194 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:35.195 [Information] {"processtime": 3151}
+2020-05-10T09:12:35.223 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:38.182 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:38.182 [Information] {"processtime": 2987}
+2020-05-10T09:12:38.213 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:41.322 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:41.322 [Information] {"processtime": 3140}
+2020-05-10T09:12:41.351 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:44.424 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:44.425 [Information] {"processtime": 3102}
+2020-05-10T09:12:44.550 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:47.518 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:47.518 [Information] {"processtime": 3093}
+2020-05-10T09:12:47.546 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:50.534 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:50.534 [Information] {"processtime": 3016}
+2020-05-10T09:12:50.563 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:53.696 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:53.696 [Information] {"processtime": 3161}
+2020-05-10T09:12:53.730 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:12:56.761 [Information] Item has been forwarded to rpm
+2020-05-10T09:12:56.762 [Information] {"processtime": 3065}
+2020-05-10T09:12:56.762 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=03abbb49-f75e-426b-8da4-9073570f815e)
+2020-05-10T09:12:56.871 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=79bc524d-89ee-4830-bee2-ee04424919b6)
+2020-05-10T09:12:56.871 [Information] Trigger Details: PartionId: 0, Offset: 55840777104-55841063376, EnqueueTimeUtc: 2020-05-10T09:10:39.0780000Z-2020-05-10T09:10:51.0360000Z, SequenceNumber: 13898-13907, Count: 10
+2020-05-10T09:12:57.106 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:00.070 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:00.071 [Information] {"processtime": 3198}
+2020-05-10T09:13:00.151 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:03.277 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:03.278 [Information] {"processtime": 3206}
+2020-05-10T09:13:03.312 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:06.333 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:06.334 [Information] {"processtime": 3056}
+2020-05-10T09:13:06.362 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:09.372 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:09.373 [Information] {"processtime": 3039}
+2020-05-10T09:13:09.404 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:12.638 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:12.638 [Information] {"processtime": 3265}
+2020-05-10T09:13:12.767 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:15.832 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:15.833 [Information] {"processtime": 3195}
+2020-05-10T09:13:15.864 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:18.944 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:18.944 [Information] {"processtime": 3111}
+2020-05-10T09:13:18.974 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:22.094 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:22.094 [Information] {"processtime": 3150}
+2020-05-10T09:13:22.123 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:25.133 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:25.134 [Information] {"processtime": 3040}
+2020-05-10T09:13:25.237 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:28.370 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:28.370 [Information] {"processtime": 3236}
+2020-05-10T09:13:28.370 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=79bc524d-89ee-4830-bee2-ee04424919b6)
+2020-05-10T09:13:28.396 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=a666b95f-8eac-49d0-9fe7-d431626123e9)
+2020-05-10T09:13:28.396 [Information] Trigger Details: PartionId: 0, Offset: 55841095064-55841381304, EnqueueTimeUtc: 2020-05-10T09:10:59.1630000Z-2020-05-10T09:11:11.1490000Z, SequenceNumber: 13908-13917, Count: 10
+2020-05-10T09:13:28.639 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:31.670 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:31.671 [Information] {"processtime": 3268}
+2020-05-10T09:13:31.752 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:34.778 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:34.778 [Information] {"processtime": 3107}
+2020-05-10T09:13:34.866 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:37.955 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:37.955 [Information] {"processtime": 3177}
+2020-05-10T09:13:37.983 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:40.974 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:40.975 [Information] {"processtime": 3018}
+2020-05-10T09:13:41.080 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:44.147 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:44.147 [Information] {"processtime": 3172}
+2020-05-10T09:13:44.175 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:47.245 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:47.245 [Information] {"processtime": 3097}
+2020-05-10T09:13:47.277 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:50.374 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:50.374 [Information] {"processtime": 3129}
+2020-05-10T09:13:50.403 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:53.422 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:53.423 [Information] {"processtime": 3048}
+2020-05-10T09:13:53.450 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:56.555 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:56.555 [Information] {"processtime": 3132}
+2020-05-10T09:13:56.583 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:13:59.639 [Information] Item has been forwarded to rpm
+2020-05-10T09:13:59.639 [Information] {"processtime": 3084}
+2020-05-10T09:13:59.639 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=a666b95f-8eac-49d0-9fe7-d431626123e9)
+2020-05-10T09:13:59.679 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=8108d8b4-4467-4304-8ad8-4801e26bb10c)
+2020-05-10T09:13:59.679 [Information] Trigger Details: PartionId: 0, Offset: 55841413168-55841699280, EnqueueTimeUtc: 2020-05-10T09:11:19.2770000Z-2020-05-10T09:11:30.9970000Z, SequenceNumber: 13918-13927, Count: 10
+2020-05-10T09:13:59.893 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:02.962 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:02.963 [Information] {"processtime": 3282}
+2020-05-10T09:14:02.993 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:05.977 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:05.978 [Information] {"processtime": 3015}
+2020-05-10T09:14:06.057 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:09.172 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:09.173 [Information] {"processtime": 3194}
+2020-05-10T09:14:09.206 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:12.248 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:12.249 [Information] {"processtime": 3074}
+2020-05-10T09:14:12.276 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:15.350 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:15.350 [Information] {"processtime": 3101}
+2020-05-10T09:14:15.477 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:18.553 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:18.553 [Information] {"processtime": 3203}
+2020-05-10T09:14:18.582 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:21.703 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:21.703 [Information] {"processtime": 3149}
+2020-05-10T09:14:21.732 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:24.891 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:24.891 [Information] {"processtime": 3187}
+2020-05-10T09:14:24.920 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:28.057 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:28.057 [Information] {"processtime": 3165}
+2020-05-10T09:14:28.086 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:31.225 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:31.226 [Information] {"processtime": 3168}
+2020-05-10T09:14:31.226 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=8108d8b4-4467-4304-8ad8-4801e26bb10c)
+2020-05-10T09:14:31.255 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=0c670174-af1e-4330-867d-a3e6990790e0)
+2020-05-10T09:14:31.255 [Information] Trigger Details: PartionId: 0, Offset: 55841731008-55842017136, EnqueueTimeUtc: 2020-05-10T09:11:39.3430000Z-2020-05-10T09:11:51.4360000Z, SequenceNumber: 13928-13937, Count: 10
+2020-05-10T09:14:31.544 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:34.639 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:34.640 [Information] {"processtime": 3383}
+2020-05-10T09:14:34.726 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:38.032 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:38.032 [Information] {"processtime": 3392}
+2020-05-10T09:14:38.114 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:41.156 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:41.157 [Information] {"processtime": 3125}
+2020-05-10T09:14:41.192 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:44.321 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:44.321 [Information] {"processtime": 3164}
+2020-05-10T09:14:44.350 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:47.353 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:47.353 [Information] {"processtime": 3032}
+2020-05-10T09:14:47.382 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:50.534 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:50.534 [Information] {"processtime": 3180}
+2020-05-10T09:14:50.563 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:53.613 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:53.613 [Information] {"processtime": 3078}
+2020-05-10T09:14:53.645 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:56.706 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:56.707 [Information] {"processtime": 3094}
+2020-05-10T09:14:56.808 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:14:59.849 [Information] Item has been forwarded to rpm
+2020-05-10T09:14:59.849 [Information] {"processtime": 3142}
+2020-05-10T09:14:59.877 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:02.877 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:02.877 [Information] {"processtime": 3028}
+2020-05-10T09:15:02.878 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=0c670174-af1e-4330-867d-a3e6990790e0)
+2020-05-10T09:15:02.903 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=2f342b50-b547-4ee9-8236-99f18c752475)
+2020-05-10T09:15:02.903 [Information] Trigger Details: PartionId: 0, Offset: 55842048928-55842335184, EnqueueTimeUtc: 2020-05-10T09:11:59.3770000Z-2020-05-10T09:12:11.3490000Z, SequenceNumber: 13938-13947, Count: 10
+2020-05-10T09:15:03.115 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:06.142 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:06.142 [Information] {"processtime": 3237}
+2020-05-10T09:15:06.169 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:09.213 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:09.214 [Information] {"processtime": 3071}
+2020-05-10T09:15:09.339 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:12.530 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:12.530 [Information] {"processtime": 3315}
+2020-05-10T09:15:12.611 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:15.667 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:15.667 [Information] {"processtime": 3137}
+2020-05-10T09:15:15.695 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:18.766 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:18.766 [Information] {"processtime": 3099}
+2020-05-10T09:15:18.794 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:21.803 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:21.803 [Information] {"processtime": 3037}
+2020-05-10T09:15:21.831 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:24.808 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:24.808 [Information] {"processtime": 3005}
+2020-05-10T09:15:24.836 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:27.799 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:27.799 [Information] {"processtime": 2990}
+2020-05-10T09:15:27.826 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:30.865 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:30.865 [Information] {"processtime": 3066}
+2020-05-10T09:15:30.894 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:33.878 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:33.882 [Information] {"processtime": 3013}
+2020-05-10T09:15:33.882 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=2f342b50-b547-4ee9-8236-99f18c752475)
+2020-05-10T09:15:33.922 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=52242553-299f-4855-8d64-33c45b8cfe4b)
+2020-05-10T09:15:33.922 [Information] Trigger Details: PartionId: 0, Offset: 55842366936-55842653168, EnqueueTimeUtc: 2020-05-10T09:12:19.2880000Z-2020-05-10T09:12:31.4810000Z, SequenceNumber: 13948-13957, Count: 10
+2020-05-10T09:15:34.177 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:37.271 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:37.271 [Information] {"processtime": 3347}
+2020-05-10T09:15:37.299 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:40.300 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:40.301 [Information] {"processtime": 3030}
+2020-05-10T09:15:40.329 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:43.408 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:43.408 [Information] {"processtime": 3107}
+2020-05-10T09:15:43.435 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:46.460 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:46.460 [Information] {"processtime": 3052}
+2020-05-10T09:15:46.605 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:49.642 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:49.643 [Information] {"processtime": 3183}
+2020-05-10T09:15:49.672 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:52.641 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:52.642 [Information] {"processtime": 2998}
+2020-05-10T09:15:52.669 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:55.682 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:55.682 [Information] {"processtime": 3040}
+2020-05-10T09:15:55.761 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:15:59.024 [Information] Item has been forwarded to rpm
+2020-05-10T09:15:59.024 [Information] {"processtime": 3342}
+2020-05-10T09:15:59.181 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:02.677 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:02.677 [Information] {"processtime": 3653}
+2020-05-10T09:16:02.705 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:05.743 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:05.743 [Information] {"processtime": 3066}
+2020-05-10T09:16:05.743 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=52242553-299f-4855-8d64-33c45b8cfe4b)
+2020-05-10T09:16:05.795 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=4d32f5ad-aa8e-4e36-9f43-b2f593d1e1d4)
+2020-05-10T09:16:05.796 [Information] Trigger Details: PartionId: 0, Offset: 55842684968-55842971056, EnqueueTimeUtc: 2020-05-10T09:12:39.4240000Z-2020-05-10T09:12:51.5210000Z, SequenceNumber: 13958-13967, Count: 10
+2020-05-10T09:16:06.044 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:09.229 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:09.229 [Information] {"processtime": 3431}
+2020-05-10T09:16:09.324 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:12.354 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:12.355 [Information] {"processtime": 3126}
+2020-05-10T09:16:12.383 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:15.441 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:15.441 [Information] {"processtime": 3086}
+2020-05-10T09:16:15.470 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:18.469 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:18.470 [Information] {"processtime": 3028}
+2020-05-10T09:16:18.500 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:21.507 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:21.507 [Information] {"processtime": 3037}
+2020-05-10T09:16:21.619 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:24.705 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:24.706 [Information] {"processtime": 3198}
+2020-05-10T09:16:24.734 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:27.756 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:27.757 [Information] {"processtime": 3051}
+2020-05-10T09:16:27.785 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:30.809 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:30.809 [Information] {"processtime": 3052}
+2020-05-10T09:16:30.892 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:33.982 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:33.982 [Information] {"processtime": 3173}
+2020-05-10T09:16:34.010 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:37.115 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:37.115 [Information] {"processtime": 3133}
+2020-05-10T09:16:37.115 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=4d32f5ad-aa8e-4e36-9f43-b2f593d1e1d4)
+2020-05-10T09:16:37.158 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=e6f2e3b7-e077-4a18-876c-91d3e0394a9a)
+2020-05-10T09:16:37.158 [Information] Trigger Details: PartionId: 0, Offset: 55843002840-55843288920, EnqueueTimeUtc: 2020-05-10T09:12:59.4930000Z-2020-05-10T09:13:11.5920000Z, SequenceNumber: 13968-13977, Count: 10
+2020-05-10T09:16:37.411 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:40.465 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:40.465 [Information] {"processtime": 3305}
+2020-05-10T09:16:40.548 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:43.534 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:43.535 [Information] {"processtime": 3068}
+2020-05-10T09:16:43.562 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:46.629 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:46.629 [Information] {"processtime": 3094}
+2020-05-10T09:16:46.710 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:49.780 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:49.780 [Information] {"processtime": 3151}
+2020-05-10T09:16:49.808 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:52.817 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:52.818 [Information] {"processtime": 3038}
+2020-05-10T09:16:52.977 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:55.963 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:55.963 [Information] {"processtime": 3145}
+2020-05-10T09:16:55.991 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:56.458 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:56.458 [Information] {"processtime": 495}
+2020-05-10T09:16:56.487 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:56.858 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:56.858 [Information] {"processtime": 400}
+2020-05-10T09:16:56.975 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:16:57.331 [Information] Item has been forwarded to rpm
+2020-05-10T09:16:57.331 [Information] {"processtime": 472}
+2020-05-10T09:16:57.361 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:00.455 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:00.455 [Information] {"processtime": 3123}
+2020-05-10T09:17:00.456 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=e6f2e3b7-e077-4a18-876c-91d3e0394a9a)
+2020-05-10T09:17:00.505 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=6ba5c26c-c6cb-4cb2-b28f-a0f83230059e)
+2020-05-10T09:17:00.505 [Information] Trigger Details: PartionId: 0, Offset: 55843320720-55843607024, EnqueueTimeUtc: 2020-05-10T09:13:19.7340000Z-2020-05-10T09:13:31.6430000Z, SequenceNumber: 13978-13987, Count: 10
+2020-05-10T09:17:00.722 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:03.769 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:03.770 [Information] {"processtime": 3262}
+2020-05-10T09:17:03.858 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:06.891 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:06.892 [Information] {"processtime": 3122}
+2020-05-10T09:17:07.026 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:12.548 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:12.548 [Information] {"processtime": 5656}
+2020-05-10T09:17:12.578 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:15.688 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:15.688 [Information] {"processtime": 3140}
+2020-05-10T09:17:15.716 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:16.117 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:16.117 [Information] {"processtime": 429}
+2020-05-10T09:17:16.200 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:16.557 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:16.557 [Information] {"processtime": 440}
+2020-05-10T09:17:16.588 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:16.959 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:16.959 [Information] {"processtime": 401}
+2020-05-10T09:17:16.987 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:17.337 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:17.337 [Information] {"processtime": 378}
+2020-05-10T09:17:17.371 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:17.722 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:17.722 [Information] {"processtime": 384}
+2020-05-10T09:17:17.749 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:18.089 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:18.089 [Information] {"processtime": 367}
+2020-05-10T09:17:18.089 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=6ba5c26c-c6cb-4cb2-b28f-a0f83230059e)
+2020-05-10T09:17:18.122 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=b256d85c-05a2-48a3-924b-95eb1d7a94a5)
+2020-05-10T09:17:18.122 [Information] Trigger Details: PartionId: 0, Offset: 55843638952-55843925144, EnqueueTimeUtc: 2020-05-10T09:13:39.7680000Z-2020-05-10T09:13:51.7900000Z, SequenceNumber: 13988-13997, Count: 10
+2020-05-10T09:17:18.331 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:18.707 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:18.707 [Information] {"processtime": 583}
+2020-05-10T09:17:18.790 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:19.195 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:19.195 [Information] {"processtime": 488}
+2020-05-10T09:17:19.224 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:19.691 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:19.691 [Information] {"processtime": 496}
+2020-05-10T09:17:19.720 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:20.063 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:20.063 [Information] {"processtime": 371}
+2020-05-10T09:17:20.096 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:20.461 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:20.462 [Information] {"processtime": 399}
+2020-05-10T09:17:20.544 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:20.879 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:20.880 [Information] {"processtime": 418}
+2020-05-10T09:17:20.908 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:21.257 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:21.257 [Information] {"processtime": 377}
+2020-05-10T09:17:21.285 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:24.291 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:24.291 [Information] {"processtime": 3034}
+2020-05-10T09:17:24.326 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:24.664 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:24.665 [Information] {"processtime": 373}
+2020-05-10T09:17:24.694 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:25.042 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:25.042 [Information] {"processtime": 377}
+2020-05-10T09:17:25.042 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=b256d85c-05a2-48a3-924b-95eb1d7a94a5)
+2020-05-10T09:17:25.072 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=690c1d97-618f-4358-93ca-e1465de79533)
+2020-05-10T09:17:25.072 [Information] Trigger Details: PartionId: 0, Offset: 55843956984-55844243408, EnqueueTimeUtc: 2020-05-10T09:13:59.7130000Z-2020-05-10T09:14:11.6680000Z, SequenceNumber: 13998-14007, Count: 10
+2020-05-10T09:17:25.307 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:25.663 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:25.664 [Information] {"processtime": 590}
+2020-05-10T09:17:25.751 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:26.111 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:26.111 [Information] {"processtime": 447}
+2020-05-10T09:17:26.195 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:26.527 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:26.527 [Information] {"processtime": 416}
+2020-05-10T09:17:26.612 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:29.568 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:29.569 [Information] {"processtime": 3042}
+2020-05-10T09:17:29.596 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:29.944 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:29.944 [Information] {"processtime": 375}
+2020-05-10T09:17:29.979 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:32.951 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:32.951 [Information] {"processtime": 3006}
+2020-05-10T09:17:32.980 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:33.340 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:33.340 [Information] {"processtime": 389}
+2020-05-10T09:17:33.368 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:33.711 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:33.711 [Information] {"processtime": 371}
+2020-05-10T09:17:33.743 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:34.168 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:34.168 [Information] {"processtime": 457}
+2020-05-10T09:17:34.196 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:34.562 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:34.563 [Information] {"processtime": 395}
+2020-05-10T09:17:34.563 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=690c1d97-618f-4358-93ca-e1465de79533)
+2020-05-10T09:17:34.639 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=81c9c23b-8be5-4fa8-96f6-b0c1f0ba188a)
+2020-05-10T09:17:34.640 [Information] Trigger Details: PartionId: 0, Offset: 55844275096-55844561400, EnqueueTimeUtc: 2020-05-10T09:14:19.8090000Z-2020-05-10T09:14:31.7330000Z, SequenceNumber: 14008-14017, Count: 10
+2020-05-10T09:17:34.843 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:35.206 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:35.207 [Information] {"processtime": 566}
+2020-05-10T09:17:35.291 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:35.663 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:35.663 [Information] {"processtime": 456}
+2020-05-10T09:17:35.749 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:36.145 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:36.145 [Information] {"processtime": 482}
+2020-05-10T09:17:36.225 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:36.642 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:36.642 [Information] {"processtime": 497}
+2020-05-10T09:17:36.670 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:37.040 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:37.041 [Information] {"processtime": 398}
+2020-05-10T09:17:37.068 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:37.419 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:37.419 [Information] {"processtime": 378}
+2020-05-10T09:17:37.447 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:37.790 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:37.790 [Information] {"processtime": 371}
+2020-05-10T09:17:37.823 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:38.173 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:38.173 [Information] {"processtime": 383}
+2020-05-10T09:17:38.201 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:38.544 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:38.544 [Information] {"processtime": 370}
+2020-05-10T09:17:38.579 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:38.921 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:38.921 [Information] {"processtime": 377}
+2020-05-10T09:17:38.922 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=81c9c23b-8be5-4fa8-96f6-b0c1f0ba188a)
+2020-05-10T09:17:38.950 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=1ff69f64-fb75-4848-9736-1eb5662ecf3b)
+2020-05-10T09:17:38.950 [Information] Trigger Details: PartionId: 0, Offset: 55844593224-55844879632, EnqueueTimeUtc: 2020-05-10T09:14:40.0320000Z-2020-05-10T09:14:52.1290000Z, SequenceNumber: 14018-14027, Count: 10
+2020-05-10T09:17:39.123 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:39.448 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:39.448 [Information] {"processtime": 496}
+2020-05-10T09:17:39.529 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:39.921 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:39.921 [Information] {"processtime": 473}
+2020-05-10T09:17:39.949 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:40.284 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:40.284 [Information] {"processtime": 363}
+2020-05-10T09:17:40.313 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:40.673 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:40.674 [Information] {"processtime": 390}
+2020-05-10T09:17:40.755 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:41.095 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:41.095 [Information] {"processtime": 421}
+2020-05-10T09:17:41.124 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:41.455 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:41.455 [Information] {"processtime": 360}
+2020-05-10T09:17:41.487 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:41.824 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:41.825 [Information] {"processtime": 370}
+2020-05-10T09:17:41.862 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:42.197 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:42.197 [Information] {"processtime": 372}
+2020-05-10T09:17:42.226 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:42.567 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:42.567 [Information] {"processtime": 370}
+2020-05-10T09:17:42.647 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:43.005 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:43.005 [Information] {"processtime": 438}
+2020-05-10T09:17:43.006 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=1ff69f64-fb75-4848-9736-1eb5662ecf3b)
+2020-05-10T09:17:43.049 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=483e2657-4671-4f36-9722-4447c986046e)
+2020-05-10T09:17:43.049 [Information] Trigger Details: PartionId: 0, Offset: 55844911480-55845197664, EnqueueTimeUtc: 2020-05-10T09:14:59.8810000Z-2020-05-10T09:15:11.8520000Z, SequenceNumber: 14028-14037, Count: 10
+2020-05-10T09:17:43.238 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:43.583 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:43.583 [Information] {"processtime": 532}
+2020-05-10T09:17:43.663 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:44.033 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:44.033 [Information] {"processtime": 450}
+2020-05-10T09:17:44.062 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:44.404 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:44.404 [Information] {"processtime": 370}
+2020-05-10T09:17:44.432 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:44.771 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:44.772 [Information] {"processtime": 368}
+2020-05-10T09:17:44.871 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:45.198 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:45.199 [Information] {"processtime": 426}
+2020-05-10T09:17:45.226 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:45.575 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:45.575 [Information] {"processtime": 376}
+2020-05-10T09:17:45.660 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:46.004 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:46.005 [Information] {"processtime": 429}
+2020-05-10T09:17:46.033 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:46.402 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:46.402 [Information] {"processtime": 397}
+2020-05-10T09:17:46.430 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:46.859 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:46.860 [Information] {"processtime": 457}
+2020-05-10T09:17:46.890 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:47.255 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:47.255 [Information] {"processtime": 395}
+2020-05-10T09:17:47.255 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=483e2657-4671-4f36-9722-4447c986046e)
+2020-05-10T09:17:47.283 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=93e44dc0-ed70-425e-b9ed-8dfc0a37678f)
+2020-05-10T09:17:47.283 [Information] Trigger Details: PartionId: 0, Offset: 55845229448-55845515888, EnqueueTimeUtc: 2020-05-10T09:15:19.9960000Z-2020-05-10T09:15:32.1060000Z, SequenceNumber: 14038-14047, Count: 10
+2020-05-10T09:17:47.475 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:47.825 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:47.825 [Information] {"processtime": 540}
+2020-05-10T09:17:47.907 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:48.289 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:48.289 [Information] {"processtime": 464}
+2020-05-10T09:17:48.317 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:48.645 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:48.645 [Information] {"processtime": 356}
+2020-05-10T09:17:48.673 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:49.018 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:49.018 [Information] {"processtime": 373}
+2020-05-10T09:17:49.102 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:49.453 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:49.453 [Information] {"processtime": 435}
+2020-05-10T09:17:49.484 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:49.862 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:49.862 [Information] {"processtime": 408}
+2020-05-10T09:17:49.889 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:50.222 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:50.222 [Information] {"processtime": 360}
+2020-05-10T09:17:50.304 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:50.799 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:50.799 [Information] {"processtime": 577}
+2020-05-10T09:17:50.827 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:51.168 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:51.168 [Information] {"processtime": 369}
+2020-05-10T09:17:51.196 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:51.549 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:51.550 [Information] {"processtime": 381}
+2020-05-10T09:17:51.550 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=93e44dc0-ed70-425e-b9ed-8dfc0a37678f)
+2020-05-10T09:17:51.576 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=486ac6ca-968a-45ca-b3d3-e08d2030a847)
+2020-05-10T09:17:51.576 [Information] Trigger Details: PartionId: 0, Offset: 55845547696-55845834128, EnqueueTimeUtc: 2020-05-10T09:15:40.2500000Z-2020-05-10T09:15:52.0950000Z, SequenceNumber: 14048-14057, Count: 10
+2020-05-10T09:17:51.762 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:52.150 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:52.150 [Information] {"processtime": 572}
+2020-05-10T09:17:52.230 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:52.582 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:52.583 [Information] {"processtime": 432}
+2020-05-10T09:17:52.665 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:53.001 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:53.002 [Information] {"processtime": 418}
+2020-05-10T09:17:53.081 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:53.428 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:53.428 [Information] {"processtime": 426}
+2020-05-10T09:17:53.456 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:53.791 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:53.792 [Information] {"processtime": 363}
+2020-05-10T09:17:53.820 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:54.156 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:54.156 [Information] {"processtime": 364}
+2020-05-10T09:17:54.184 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:54.526 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:54.526 [Information] {"processtime": 369}
+2020-05-10T09:17:54.554 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:54.894 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:54.895 [Information] {"processtime": 369}
+2020-05-10T09:17:54.923 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:55.257 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:55.257 [Information] {"processtime": 362}
+2020-05-10T09:17:55.286 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:55.635 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:55.636 [Information] {"processtime": 378}
+2020-05-10T09:17:55.636 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=486ac6ca-968a-45ca-b3d3-e08d2030a847)
+2020-05-10T09:17:55.668 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=62a2dac3-772f-4290-9772-81e0c1f3f511)
+2020-05-10T09:17:55.669 [Information] Trigger Details: PartionId: 0, Offset: 55845865880-55846151880, EnqueueTimeUtc: 2020-05-10T09:16:00.0180000Z-2020-05-10T09:16:12.1450000Z, SequenceNumber: 14058-14067, Count: 10
+2020-05-10T09:17:55.902 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:56.240 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:56.240 [Information] {"processtime": 569}
+2020-05-10T09:17:56.328 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:56.666 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:56.667 [Information] {"processtime": 426}
+2020-05-10T09:17:56.748 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:57.105 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:57.105 [Information] {"processtime": 438}
+2020-05-10T09:17:57.142 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:57.478 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:57.478 [Information] {"processtime": 372}
+2020-05-10T09:17:57.506 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:57.856 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:57.856 [Information] {"processtime": 378}
+2020-05-10T09:17:57.890 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:58.260 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:58.260 [Information] {"processtime": 404}
+2020-05-10T09:17:58.288 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:58.628 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:58.629 [Information] {"processtime": 368}
+2020-05-10T09:17:58.656 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:58.997 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:58.998 [Information] {"processtime": 369}
+2020-05-10T09:17:59.025 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:59.370 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:59.371 [Information] {"processtime": 372}
+2020-05-10T09:17:59.402 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:17:59.763 [Information] Item has been forwarded to rpm
+2020-05-10T09:17:59.764 [Information] {"processtime": 393}
+2020-05-10T09:17:59.764 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=62a2dac3-772f-4290-9772-81e0c1f3f511)
+2020-05-10T09:17:59.789 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=5c4c7f55-6e57-4b9e-9089-aed2438f9d1d)
+2020-05-10T09:17:59.789 [Information] Trigger Details: PartionId: 0, Offset: 55846183768-55846470016, EnqueueTimeUtc: 2020-05-10T09:16:20.4930000Z-2020-05-10T09:16:32.1860000Z, SequenceNumber: 14068-14077, Count: 10
+2020-05-10T09:17:59.989 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:00.345 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:00.345 [Information] {"processtime": 554}
+2020-05-10T09:18:00.436 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:00.823 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:00.824 [Information] {"processtime": 478}
+2020-05-10T09:18:00.903 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:01.235 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:01.235 [Information] {"processtime": 411}
+2020-05-10T09:18:01.314 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:01.643 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:01.643 [Information] {"processtime": 408}
+2020-05-10T09:18:01.671 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:02.006 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:02.007 [Information] {"processtime": 364}
+2020-05-10T09:18:02.040 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:02.391 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:02.392 [Information] {"processtime": 385}
+2020-05-10T09:18:02.420 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:02.766 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:02.766 [Information] {"processtime": 374}
+2020-05-10T09:18:02.793 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:03.157 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:03.158 [Information] {"processtime": 390}
+2020-05-10T09:18:03.185 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:03.530 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:03.530 [Information] {"processtime": 372}
+2020-05-10T09:18:03.562 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:03.902 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:03.902 [Information] {"processtime": 372}
+2020-05-10T09:18:03.902 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=5c4c7f55-6e57-4b9e-9089-aed2438f9d1d)
+2020-05-10T09:18:03.953 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=4d43f091-8634-4108-93ed-c6847f86e5b0)
+2020-05-10T09:18:03.953 [Information] Trigger Details: PartionId: 0, Offset: 55846501744-55846787920, EnqueueTimeUtc: 2020-05-10T09:16:40.1720000Z-2020-05-10T09:16:52.6760000Z, SequenceNumber: 14078-14087, Count: 10
+2020-05-10T09:18:04.146 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:04.483 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:04.483 [Information] {"processtime": 528}
+2020-05-10T09:18:04.567 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:04.907 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:04.907 [Information] {"processtime": 424}
+2020-05-10T09:18:05.007 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:05.356 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:05.357 [Information] {"processtime": 450}
+2020-05-10T09:18:05.437 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:05.785 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:05.785 [Information] {"processtime": 428}
+2020-05-10T09:18:05.813 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:06.151 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:06.152 [Information] {"processtime": 366}
+2020-05-10T09:18:06.180 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:06.529 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:06.529 [Information] {"processtime": 377}
+2020-05-10T09:18:06.558 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:06.936 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:06.936 [Information] {"processtime": 407}
+2020-05-10T09:18:06.973 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:07.299 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:07.299 [Information] {"processtime": 362}
+2020-05-10T09:18:07.327 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:07.672 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:07.673 [Information] {"processtime": 373}
+2020-05-10T09:18:07.709 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:08.089 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:08.089 [Information] {"processtime": 416}
+2020-05-10T09:18:08.089 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=4d43f091-8634-4108-93ed-c6847f86e5b0)
+2020-05-10T09:18:08.119 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=3d5ec649-727f-4b86-96e1-d58637941691)
+2020-05-10T09:18:08.119 [Information] Trigger Details: PartionId: 0, Offset: 55846819808-55847106072, EnqueueTimeUtc: 2020-05-10T09:17:00.6160000Z-2020-05-10T09:17:12.8900000Z, SequenceNumber: 14088-14097, Count: 10
+2020-05-10T09:18:08.320 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:08.678 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:08.678 [Information] {"processtime": 557}
+2020-05-10T09:18:08.707 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:09.076 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:09.077 [Information] {"processtime": 398}
+2020-05-10T09:18:09.107 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:09.461 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:09.461 [Information] {"processtime": 384}
+2020-05-10T09:18:09.542 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:09.894 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:09.894 [Information] {"processtime": 433}
+2020-05-10T09:18:09.975 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:10.375 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:10.375 [Information] {"processtime": 481}
+2020-05-10T09:18:10.456 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:10.803 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:10.803 [Information] {"processtime": 427}
+2020-05-10T09:18:10.831 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:11.179 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:11.179 [Information] {"processtime": 376}
+2020-05-10T09:18:11.207 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:11.570 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:11.571 [Information] {"processtime": 390}
+2020-05-10T09:18:11.598 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:12.002 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:12.002 [Information] {"processtime": 431}
+2020-05-10T09:18:12.154 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:12.505 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:12.506 [Information] {"processtime": 502}
+2020-05-10T09:18:12.506 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=3d5ec649-727f-4b86-96e1-d58637941691)
+2020-05-10T09:18:12.532 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=53e7231f-5c11-4015-837d-c04208e18b10)
+2020-05-10T09:18:12.532 [Information] Trigger Details: PartionId: 0, Offset: 55847137984-55847424248, EnqueueTimeUtc: 2020-05-10T09:17:20.3290000Z-2020-05-10T09:17:32.3940000Z, SequenceNumber: 14098-14107, Count: 10
+2020-05-10T09:18:12.782 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:13.105 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:13.105 [Information] {"processtime": 571}
+2020-05-10T09:18:13.133 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:13.495 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:13.495 [Information] {"processtime": 389}
+2020-05-10T09:18:13.585 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:13.939 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:13.939 [Information] {"processtime": 444}
+2020-05-10T09:18:13.967 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:14.297 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:14.298 [Information] {"processtime": 358}
+2020-05-10T09:18:14.377 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:14.709 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:14.710 [Information] {"processtime": 412}
+2020-05-10T09:18:14.792 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:15.142 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:15.142 [Information] {"processtime": 432}
+2020-05-10T09:18:15.171 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:15.523 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:15.523 [Information] {"processtime": 381}
+2020-05-10T09:18:15.552 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:15.902 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:15.902 [Information] {"processtime": 379}
+2020-05-10T09:18:15.930 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:16.267 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:16.267 [Information] {"processtime": 365}
+2020-05-10T09:18:16.294 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:16.637 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:16.638 [Information] {"processtime": 369}
+2020-05-10T09:18:16.638 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=53e7231f-5c11-4015-837d-c04208e18b10)
+2020-05-10T09:18:16.670 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=e0d328fa-5074-4d07-91cd-97289a53ac10)
+2020-05-10T09:18:16.670 [Information] Trigger Details: PartionId: 0, Offset: 55847456032-55847742296, EnqueueTimeUtc: 2020-05-10T09:17:40.3790000Z-2020-05-10T09:17:53.5240000Z, SequenceNumber: 14108-14117, Count: 10
+2020-05-10T09:18:16.998 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:17.365 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:17.365 [Information] {"processtime": 692}
+2020-05-10T09:18:17.446 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:17.791 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:17.791 [Information] {"processtime": 426}
+2020-05-10T09:18:17.818 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:18.224 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:18.224 [Information] {"processtime": 433}
+2020-05-10T09:18:18.305 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:18.668 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:18.668 [Information] {"processtime": 444}
+2020-05-10T09:18:18.698 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:19.036 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:19.036 [Information] {"processtime": 368}
+2020-05-10T09:18:19.117 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:19.468 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:19.468 [Information] {"processtime": 432}
+2020-05-10T09:18:19.497 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:19.915 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:19.916 [Information] {"processtime": 447}
+2020-05-10T09:18:19.943 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:20.286 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:20.286 [Information] {"processtime": 370}
+2020-05-10T09:18:20.315 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:20.650 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:20.651 [Information] {"processtime": 365}
+2020-05-10T09:18:20.679 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:21.042 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:21.043 [Information] {"processtime": 392}
+2020-05-10T09:18:21.043 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=e0d328fa-5074-4d07-91cd-97289a53ac10)
+2020-05-10T09:18:21.073 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=e516a2e7-90fe-471e-96b9-210f09ef7938)
+2020-05-10T09:18:21.073 [Information] Trigger Details: PartionId: 0, Offset: 55847774112-55848060056, EnqueueTimeUtc: 2020-05-10T09:18:00.4620000Z-2020-05-10T09:18:12.5480000Z, SequenceNumber: 14118-14127, Count: 10
+2020-05-10T09:18:21.244 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:21.594 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:21.594 [Information] {"processtime": 519}
+2020-05-10T09:18:21.622 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:21.987 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:21.987 [Information] {"processtime": 393}
+2020-05-10T09:18:22.016 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:22.400 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:22.401 [Information] {"processtime": 413}
+2020-05-10T09:18:22.481 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:22.841 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:22.841 [Information] {"processtime": 440}
+2020-05-10T09:18:22.869 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:23.211 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:23.211 [Information] {"processtime": 370}
+2020-05-10T09:18:23.298 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:23.641 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:23.642 [Information] {"processtime": 431}
+2020-05-10T09:18:23.723 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:24.068 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:24.068 [Information] {"processtime": 426}
+2020-05-10T09:18:24.096 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:24.429 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:24.429 [Information] {"processtime": 361}
+2020-05-10T09:18:24.457 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:24.791 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:24.792 [Information] {"processtime": 363}
+2020-05-10T09:18:24.820 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:25.206 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:25.206 [Information] {"processtime": 414}
+2020-05-10T09:18:25.207 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=e516a2e7-90fe-471e-96b9-210f09ef7938)
+2020-05-10T09:18:25.263 [Information] Executing 'makkschemaroutrigger' (Reason='', Id=89869c32-b6dd-4d6f-b2da-1dc1ce8572e3)
+2020-05-10T09:18:25.263 [Information] Trigger Details: PartionId: 0, Offset: 55848091888-55848219080, EnqueueTimeUtc: 2020-05-10T09:18:20.7220000Z-2020-05-10T09:18:22.8190000Z, SequenceNumber: 14128-14132, Count: 5
+2020-05-10T09:18:25.467 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:25.805 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:25.805 [Information] {"processtime": 540}
+2020-05-10T09:18:25.888 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:26.252 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:26.252 [Information] {"processtime": 447}
+2020-05-10T09:18:26.280 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:26.611 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:26.611 [Information] {"processtime": 359}
+2020-05-10T09:18:26.639 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:26.966 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:26.966 [Information] {"processtime": 355}
+2020-05-10T09:18:26.993 [Information] Read MasterarbeitKK.Schemarou.Db_response
+2020-05-10T09:18:27.339 [Information] Item has been forwarded to rpm
+2020-05-10T09:18:27.340 [Information] {"processtime": 374}
+2020-05-10T09:18:27.340 [Information] Executed 'makkschemaroutrigger' (Succeeded, Id=89869c32-b6dd-4d6f-b2da-1dc1ce8572e3)
